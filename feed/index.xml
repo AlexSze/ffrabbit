@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="https://https://alexsze.github.io/ffrabbit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://alexsze.github.io/ffrabbit/</link>
+	<description>-Tech tips</description>
+	<lastBuildDate>Thu, 25 Mar 2021 13:30:19 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/cropped-logo_square-32x32.png</url>
+	<title></title>
+	<link>https://https://alexsze.github.io/ffrabbit/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows10熒幕錄製功能介紹：不用再錯過你遊戲中的精彩時刻！</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/07/%e4%b8%8d%e7%94%a8%e5%86%8d%e9%8c%af%e9%81%8e%e4%bd%a0%e9%81%8a%e6%88%b2%e4%b8%ad%e7%9a%84%e7%b2%be%e5%bd%a9%e6%99%82%e5%88%bb%ef%bc%81win10-%e7%86%92%e5%b9%95%e9%8c%84%e8%a3%bd%e5%8a%9f%e8%83%bd/</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 12:21:58 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<category><![CDATA[遊戲專區]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=648</guid>
+
+					<description><![CDATA[相信各位打機的時候都會有一些精彩時刻， 但因為事發突然並沒有錄製下來， 無法和其他人分享。 市面上雖然已經有部分熒幕錄製軟件可以隨時錄下精彩時刻， 但設置較為複雜， 新手未必能理解。 而其實在新版本的Windows10 已經內置了熒幕錄製功能， 只需按下一個鍵就能記錄下你遊戲中的精彩時刻， 不用再擔心錯過！ 首先前往Windows設定界面中的遊戲頁面，並開啟Xbox Game Bar功能，下方已經有各項功能的默認快捷鍵，你可以根據你的習慣設置順手的鍵位。 而在“擷取”設定頁中，可以開啟熒幕截圖和錄製文件的儲存文件夾。而背景錄製是指在玩遊戲的時候自動在背景中錄製，當遇到精彩時刻時可以立刻按下“錄影”快捷鍵來儲存此前精彩時刻的片段，可以設置為儲存按下快捷鍵前15秒，30秒，1分鐘至10分鐘的錄影，可以因應你的遊戲類型而設置不同的時長。而錄影長度上限是指手動開始錄影的長度。 而下方的音訊設定中，可以設置熒幕錄影是否將音訊一同記錄下來，並可選擇僅錄製遊戲音效，不錄製自己的對話語音。另外，你也可以選擇錄製高幀率的畫面，並選擇畫質。視訊品質無論高或者標準都是1080P,但高品質下位元速率(bitrate)會雙倍，畫面更加清晰，但文件大小自然會雙倍提升，可因應個人儲存空間選擇畫質。 在簡單的設置後，你只需要在精彩時刻發生後馬上按下“錄影”快捷鍵，就能一鍵保存你的片段並分享給其他人，甚至投稿到Youtube的遊戲精彩時刻頻道，讓你的神級操作得以顯現在全世界前！雖然Windows10該功能畫質較其他第三方軟件低，但勝在操作簡單，無需下載其他軟件，並且對電腦性能要求低，不會拖慢遊戲性能，十分適合普通玩家偶爾的錄製需要。]]></description>
+										<content:encoded><![CDATA[
+<p>相信各位打機的時候都會有一些精彩時刻， 但因為事發突然並沒有錄製下來， 無法和其他人分享。 市面上雖然已經有部分熒幕錄製軟件可以隨時錄下精彩時刻， 但設置較為複雜， 新手未必能理解。 而其實在新版本的Windows10 已經內置了熒幕錄製功能， 只需按下一個鍵就能記錄下你遊戲中的精彩時刻， 不用再擔心錯過！</p>
+
+
+
+<p>首先前往Windows設定界面中的遊戲頁面，並開啟Xbox Game Bar功能，下方已經有各項功能的默認快捷鍵，你可以根據你的習慣設置順手的鍵位。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png" alt="" class="wp-image-644" width="822" height="411" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1-300x150.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1-768x384.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1.png 1191w" sizes="(max-width: 822px) 100vw, 822px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png" alt="" class="wp-image-645" width="797" height="686" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2-300x258.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2-768x662.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2.png 1061w" sizes="(max-width: 797px) 100vw, 797px" /></figure></div>
+
+
+
+<p>而在“擷取”設定頁中，可以開啟熒幕截圖和錄製文件的儲存文件夾。而背景錄製是指在玩遊戲的時候自動在背景中錄製，當遇到精彩時刻時可以立刻按下“錄影”快捷鍵來儲存此前精彩時刻的片段，可以設置為儲存按下快捷鍵前15秒，30秒，1分鐘至10分鐘的錄影，可以因應你的遊戲類型而設置不同的時長。而錄影長度上限是指手動開始錄影的長度。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_3-1024x670.png" alt="" class="wp-image-646" width="801" height="524" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_3.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_3-300x196.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_3-768x503.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></figure></div>
+
+
+
+<p>而下方的音訊設定中，可以設置熒幕錄影是否將音訊一同記錄下來，並可選擇僅錄製遊戲音效，不錄製自己的對話語音。另外，你也可以選擇錄製高幀率的畫面，並選擇畫質。視訊品質無論高或者標準都是1080P,但高品質下位元速率(bitrate)會雙倍，畫面更加清晰，但文件大小自然會雙倍提升，可因應個人儲存空間選擇畫質。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_4-1024x772.png" alt="" class="wp-image-647" width="804" height="606" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_4.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_4-300x226.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_4-768x579.png 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure></div>
+
+
+
+<p>在簡單的設置後，你只需要在精彩時刻發生後馬上按下“錄影”快捷鍵，就能一鍵保存你的片段並分享給其他人，甚至投稿到Youtube的遊戲精彩時刻頻道，讓你的神級操作得以顯現在全世界前！雖然Windows10該功能畫質較其他第三方軟件低，但勝在操作簡單，無需下載其他軟件，並且對電腦性能要求低，不會拖慢遊戲性能，十分適合普通玩家偶爾的錄製需要。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[Minecraft Java Edition] 10分鐘內架設Minecraft 伺服器！！</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/07/minecraft-java-edition-10%e5%88%86%e9%90%98%e5%85%a7%e6%9e%b6%e8%a8%adminecraft-%e4%bc%ba%e6%9c%8d%e5%99%a8%ef%bc%81%ef%bc%81/</link>
+		
+		<dc:creator><![CDATA[Alex Sze]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2020 12:59:49 +0000</pubDate>
+				<category><![CDATA[遊戲專區]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=621</guid>
+
+					<description><![CDATA[市面上有唔同架設Minecraft 伺服器嘅方法，但大部份較為繁複。為左幫大家慳時間，FFRabbit 希望係度同大家分享一個可以係唔同私人網絡嘅情況下架設Minecraft 伺服器嘅方法。 1 下載Minecraft 首先，下載Minecraft。Minecraft 官網：https://www.minecraft.net/en-us/download/（請支持正版） 2 下載Hamachi 然後，你會需要一個虛擬私人網絡，而虛擬私人網絡嘅架設可以交比Hamachi 解決。Hamachi 官網：https://www.vpn.net/ 3 Hamachi 設定（主辦） 接下來，主辦會需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Create a new network。然後設置ID 及密碼。 4 Hamachi 設定（玩家） 玩家亦需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Join an existing network。然後輸入由主辦設置嘅ID 及密碼。 5 Minecraft 設定（主辦） 最後，主辦需要開啟並進入Minecraft World 按ESC-&#62; Open to LAN-&#62; Start LAN World。右下方對話框會出現一個5 位數字，請將呢5 個數字交比玩家們。 6 Minecraft 設定（玩家） 玩家需要按 Multiplayer-&#62; Direct Connection 然後輸入下圖主辦嘅IP＋：＋（上述5&#8230;&#160;<a href="https://https://alexsze.github.io/ffrabbit/2020/07/minecraft-java-edition-10%e5%88%86%e9%90%98%e5%85%a7%e6%9e%b6%e8%a8%adminecraft-%e4%bc%ba%e6%9c%8d%e5%99%a8%ef%bc%81%ef%bc%81/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">[Minecraft Java Edition] 10分鐘內架設Minecraft 伺服器！！</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>市面上有唔同架設Minecraft 伺服器嘅方法，但大部份較為繁複。為左幫大家慳時間，FFRabbit 希望係度同大家分享一個可以係唔同私人網絡嘅情況下架設Minecraft 伺服器嘅方法。</p>
+
+
+
+<p>1 下載Minecraft</p>
+
+
+
+<p>首先，下載Minecraft。Minecraft 官網：<a href="https://www.minecraft.net/en-us/download/" rel="nofollow noopener" target="_blank">https://www.minecraft.net/en-us/download/</a>（請支持正版）</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="738" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png" alt="" class="wp-image-625" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1-300x216.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1-768x554.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1.png 1207w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>2 下載Hamachi</p>
+
+
+
+<p>然後，你會需要一個虛擬私人網絡，而虛擬私人網絡嘅架設可以交比Hamachi 解決。Hamachi 官網：<a href="https://www.vpn.net/" rel="nofollow noopener" target="_blank">https://www.vpn.net/</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="809" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-2-1024x809.png" alt="" class="wp-image-626" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-2.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-2-300x237.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-2-768x606.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>3 Hamachi 設定（主辦）</p>
+
+
+
+<p>接下來，主辦會需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&gt; Create a new network。然後設置ID 及密碼。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="437" height="371" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-4.png" alt="" class="wp-image-628" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-4.png 437w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-4-300x255.png 300w" sizes="(max-width: 437px) 100vw, 437px" /></figure></div>
+
+
+
+<p>4 Hamachi 設定（玩家）</p>
+
+
+
+<p>玩家亦需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&gt; Join an existing network。然後輸入由主辦設置嘅ID 及密碼。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="413" height="189" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-5.png" alt="" class="wp-image-629" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-5.png 413w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-5-300x137.png 300w" sizes="(max-width: 413px) 100vw, 413px" /></figure></div>
+
+
+
+<p>5 Minecraft 設定（主辦）</p>
+
+
+
+<p>最後，主辦需要開啟並進入Minecraft World 按ESC-&gt; Open to LAN-&gt; Start LAN World。右下方對話框會出現一個5 位數字，請將呢5 個數字交比玩家們。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="854" height="475" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-6.png" alt="" class="wp-image-630" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-6.png 854w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-6-300x167.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-6-768x427.png 768w" sizes="(max-width: 854px) 100vw, 854px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="850" height="474" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-8.png" alt="" class="wp-image-631" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-8.png 850w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-8-300x167.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-8-768x428.png 768w" sizes="(max-width: 850px) 100vw, 850px" /></figure></div>
+
+
+
+<p>6 Minecraft 設定（玩家）</p>
+
+
+
+<p>玩家需要按 Multiplayer-&gt; Direct Connection 然後輸入下圖主辦嘅IP＋：＋（上述5 位數字）。例如：123.12.123.123:12345</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="261" height="124" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-3.png" alt="" class="wp-image-627"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="852" height="477" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-10.png" alt="" class="wp-image-632" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-10.png 852w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-10-300x168.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-10-768x430.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure></div>
+
+
+
+<p>7 注意事項</p>
+
+
+
+<p>使用呢個方法有幾個需要注意嘅事項。首先，主辦嘅電腦會負責大部分運算工作，所以需要一部性能比較好嘅電腦。其次，Server 只會係主辦上線（Open LAN）嘅時候存在，所以玩家們只可以係主辦上線嘅時候進入Server。最後，此方法只適用係Minecraft Java Edition，而人數上限為5 人。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>為你的Windows手提電腦設置一個睡眠快捷鍵！</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/07/%e7%82%ba%e4%bd%a0%e7%9a%84windows-%e6%89%8b%e6%8f%90%e9%9b%bb%e8%85%a6%e8%a8%ad%e7%bd%ae%e4%b8%80%e5%80%8b%e7%9d%a1%e7%9c%a0%e5%bf%ab%e6%8d%b7%e9%8d%b5/</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2020 17:08:44 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=605</guid>
+
+					<description><![CDATA[現今市面大部分手提電腦的電源鍵仍然設置在鍵盤面一側， 需要揭開熒幕才能按到， 但是在家中外接鍵盤和熒幕時手提電腦通常是關上熒幕使用， 無法觸碰到電源鍵， 只能繁瑣地透過點擊Windows 的開始鍵→電源→睡眠使電腦進入睡眠狀態， 十分不方便， 以下FFRabbit 就會教你如何通過設置一個快捷鍵讓你一鍵使你的電腦進入睡眠狀態！ 首先，需要前往微軟網站下載PsShutdown小工具並打開下載完成的壓縮包，並複製pssshutdown.exe文件至系統安裝盤的Windows/System32文件夾,例如C:\Windows\System32。 複製完成後，在任意一個文件夾或者桌面右鍵點擊鼠標，新增一個捷徑並輸入剛才複製文件的位置，並在後面加上-d -t 0 -accepteula，如C:\Windows\System32\psshutdown.exe -d -t 0 -accepteula。下一步再將捷徑命名為睡眠等方便辨認的名稱，完成後便可以通過點擊該捷徑馬上使電腦進入睡眠狀態。 在成功設置捷徑後，可以通過右鍵點擊捷徑→內容進入捷徑的設置界面，在該界面可以設置鍵盤快捷鍵和圖標，使電腦睡眠的操作更方便，不用通過鼠標點擊使電腦進入睡眠狀態。 最後，希望以上的小教學能夠使大家更有效率地使用電腦！]]></description>
+										<content:encoded><![CDATA[
+<p>現今市面大部分手提電腦的電源鍵仍然設置在鍵盤面一側， 需要揭開熒幕才能按到， 但是在家中外接鍵盤和熒幕時手提電腦通常是關上熒幕使用， 無法觸碰到電源鍵， 只能繁瑣地透過點擊Windows 的開始鍵→電源→睡眠使電腦進入睡眠狀態， 十分不方便， 以下FFRabbit 就會教你如何通過設置一個快捷鍵讓你一鍵使你的電腦進入睡眠狀態！</p>
+
+
+
+<p>首先，需要前往<a href="https://docs.microsoft.com/zh-tw/sysinternals/downloads/psshutdown" class="rank-math-link" rel="nofollow noopener" target="_blank">微軟網站</a>下載PsShutdown小工具並打開下載完成的壓縮包，並複製pssshutdown.exe文件至系統安裝盤的Windows/System32文件夾,例如C:\Windows\System32。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="350" height="240" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep1.png" alt="" class="wp-image-606" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep1.png 350w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep1-300x206.png 300w" sizes="(max-width: 350px) 100vw, 350px" /><figcaption>點擊Download PsTools下載壓縮包</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep2.png" alt="" class="wp-image-607" width="627" height="406" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep2.png 973w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep2-300x194.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep2-768x497.png 768w" sizes="(max-width: 627px) 100vw, 627px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep3.png" alt="" class="wp-image-608" width="395" height="201" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep3.png 456w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep3-300x153.png 300w" sizes="(max-width: 395px) 100vw, 395px" /><figcaption>打開壓縮包後將pssshutdown文件複製至Windows\System32文件夾內</figcaption></figure></div>
+
+
+
+<p>複製完成後，在任意一個文件夾或者桌面右鍵點擊鼠標，新增一個捷徑並輸入剛才複製文件的位置，並在後面加上-d -t 0 -accepteula，如C:\Windows\System32\psshutdown.exe -d -t 0 -accepteula。下一步再將捷徑命名為睡眠等方便辨認的名稱，完成後便可以通過點擊該捷徑馬上使電腦進入睡眠狀態。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep4.png" alt="" class="wp-image-609" width="473" height="254" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep4.png 473w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep4-300x161.png 300w" sizes="(max-width: 473px) 100vw, 473px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="622" height="462" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep5.png" alt="" class="wp-image-610" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep5.png 622w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep5-300x223.png 300w" sizes="(max-width: 622px) 100vw, 622px" /></figure></div>
+
+
+
+<p>在成功設置捷徑後，可以通過右鍵點擊捷徑→內容進入捷徑的設置界面，在該界面可以設置鍵盤快捷鍵和圖標，使電腦睡眠的操作更方便，不用通過鼠標點擊使電腦進入睡眠狀態。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep6.png" alt="" class="wp-image-611" width="419" height="565" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep6.png 463w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10_Sleep6-222x300.png 222w" sizes="(max-width: 419px) 100vw, 419px" /></figure></div>
+
+
+
+<p>最後，希望以上的小教學能夠使大家更有效率地使用電腦！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MACBOOK 三個不可不知的TRACKPAD 操作小技巧</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/07/macbook-%e4%b8%89%e5%80%8b%e4%b8%8d%e5%8f%af%e4%b8%8d%e7%9f%a5%e7%9a%84trackpad-%e6%93%8d%e4%bd%9c%e5%b0%8f%e6%8a%80%e5%b7%a7/</link>
+		
+		<dc:creator><![CDATA[Alex Sze]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2020 10:51:16 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=591</guid>
+
+					<description><![CDATA[MACBOOK 擁有手提電腦界其中一款最好用嘅TRACKPAD，但係FFRabbit 身邊就好小有真正識用MACBOOK TRACKPAD嘅人。所以今日就等FFRabbit 為大家介紹一下MACBOOK TRACKPAD 有用又好玩嘅三項功能啦！ 首先，打開SYSTEM PREFERENCE，然後按TRACKPAD 先確認一下你嘅MACBOOK 有冇以下嘅功能：Look up &#38; data detectors, Smart zoom, Swipe between pages。（如果冇顯示可能係你嘅MACBOOK 暫時唔支援呢啲功能。）然後點選方格開啟功能。 Look up &#38; data detectors 呢項功能係FFRabbit 覺得最有用嘅MACBOOK 功能之一。呢個功能減省左搜尋資料嘅步驟，令你可以更快取得心水資料。想使用呢項功能嘅你，只需要選取希望查閱嘅字，然後Force Click （亦即係大力小小㩒個TRACKPAD），螢幕上就會顯示翻譯及詳細資料。識用呢項功能之後，你就唔再需要GOOGLE Search 啦！ Smart zoom 相信唔小貪方便嘅朋友都同FFRabbit 一樣選擇左13吋嘅MACBOOK，然後經常因為螢幕太細而睇唔清楚螢幕內容。Smart zoom就正正係為咗解決呢個問題而出現。想使用呢項功能嘅你，只需要將鼠標移到希望放大嘅位置，然後雙指Double Click，就可以暫時放大該區域。而想還原嘅時侯，就可以重覆雙指Double Click動作。相信呢項功能可以解決唔小人嘅煩惱。 Swipe between pages 呢項功能取代左瀏覽器左上角位置嘅&#8221;回到前/後一頁&#8221;，令瀏覽網頁更方便快捷。想使用呢項功能嘅你，只需要雙指往右（回到前一頁）或雙指往左（回到後一頁）移動就可以完成前進/返回操作。呢項功能係FFRabbit 其中一項最常使用嘅功能之一。 最後，希望以上小教學可以幫助到大家提升工作效率啦！]]></description>
+										<content:encoded><![CDATA[
+<p>MACBOOK 擁有手提電腦界其中一款最好用嘅TRACKPAD，但係FFRabbit 身邊就好小有真正識用MACBOOK TRACKPAD嘅人。所以今日就等FFRabbit 為大家介紹一下MACBOOK TRACKPAD 有用又好玩嘅三項功能啦！</p>
+
+
+
+<p>首先，打開SYSTEM PREFERENCE，然後按TRACKPAD 先確認一下你嘅MACBOOK 有冇以下嘅功能：Look up &amp; data detectors, Smart zoom, Swipe between pages。（如果冇顯示可能係你嘅MACBOOK 暫時唔支援呢啲功能。）然後點選方格開啟功能。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="396" height="405" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.43.06.png" alt="" class="wp-image-594" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.43.06.png 396w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.43.06-293x300.png 293w" sizes="(max-width: 396px) 100vw, 396px" /></figure></div>
+
+
+
+<p style="font-size:30px;font-weight:bold" class="has-custom-weight"><strong>Look up &amp; data detectors</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="823" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-1024x823.png" alt="" class="wp-image-595" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-1024x823.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-300x241.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-768x617.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-1536x1235.png 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>呢項功能係FFRabbit 覺得最有用嘅MACBOOK 功能之一。呢個功能減省左搜尋資料嘅步驟，令你可以更快取得心水資料。想使用呢項功能嘅你，只需要選取希望查閱嘅字，然後Force Click （亦即係大力小小㩒個TRACKPAD），螢幕上就會顯示翻譯及詳細資料。識用呢項功能之後，你就唔再需要GOOGLE Search 啦！</p>
+
+
+
+<p style="font-size:30px"><strong>Smart zoom</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="823" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-1024x823.png" alt="" class="wp-image-596" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-1024x823.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-300x241.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-768x617.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-1536x1235.png 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>相信唔小貪方便嘅朋友都同FFRabbit 一樣選擇左13吋嘅MACBOOK，然後經常因為螢幕太細而睇唔清楚螢幕內容。Smart zoom就正正係為咗解決呢個問題而出現。想使用呢項功能嘅你，只需要將鼠標移到希望放大嘅位置，然後雙指Double Click，就可以暫時放大該區域。而想還原嘅時侯，就可以重覆雙指Double Click動作。相信呢項功能可以解決唔小人嘅煩惱。</p>
+
+
+
+<p style="font-size:30px"><strong>Swipe between pages</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="823" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-1024x823.png" alt="" class="wp-image-597" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-1024x823.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-300x241.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-768x617.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-1536x1235.png 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>呢項功能取代左瀏覽器左上角位置嘅&#8221;回到前/後一頁&#8221;，令瀏覽網頁更方便快捷。想使用呢項功能嘅你，只需要雙指往右（回到前一頁）或雙指往左（回到後一頁）移動就可以完成前進/返回操作。呢項功能係FFRabbit 其中一項最常使用嘅功能之一。</p>
+
+
+
+<p>最後，希望以上小教學可以幫助到大家提升工作效率啦！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>通過刪除Windows 10 更新拯救遊戲的不明問題！</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/05/%e5%88%aa%e9%99%a4windows10%e6%9b%b4%e6%96%b0%e6%8b%af%e6%95%91%e4%b8%8d%e6%98%8e%e5%95%8f%e9%a1%8c/</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 04 May 2020 15:24:44 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=563</guid>
+
+					<description><![CDATA[最近FFRabbit 常玩的遊戲在某一日突然出現了不明原因的卡頓， 嚴重影響了遊戲體驗， 經過一番排查， 發現是Windows 10 自動更新之後默認輸入法和遊戲產生衝突，刪除更新之後就回復正常，各位如果某一日突然發現使用電腦時有各式各樣的不明問題，例如卡頓、崩潰等，可以前往設定→更新與安全性→檢視更新記錄，如果發現Windows 在神不知鬼不覺的情況下安裝了更新，就很有可能是更新造成的兼容性問題，刪除更新即可解決。 在左下角的搜尋窗口輸入“控制台”或“Control”，然後進入控制台→選擇程式集→檢視已安裝的更新，尋找導致兼容問題的更新，然後罪將魁禍首解除安裝並重啟電腦就可以回復正常了！還不要忘記進入Windows Update 界面，將更新暫停一段時間，一般兼容性問題都會很快得到解決，即使後來又自動安裝了更新通常都不會導致問題再發生。 這就是今期FFRabbit 的科技小Tips ，希望能夠讓你的電腦回復正常！]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">最近FFRabbit 常玩的遊戲在某一日突然出現了不明原因的卡頓， 嚴重影響了遊戲體驗， 經過一番排查， 發現是Windows 10 自動更新之後默認輸入法和遊戲產生衝突，刪除更新之後就回復正常，各位如果某一日突然發現使用電腦時有各式各樣的不明問題，例如卡頓、崩潰等，可以前往設定→更新與安全性→檢視更新記錄，如果發現Windows 在神不知鬼不覺的情況下安裝了更新，就很有可能是更新造成的兼容性問題，刪除更新即可解決。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del1.jpg" alt="" class="wp-image-564" width="629" height="346" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del1.jpg 748w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del1-300x165.jpg 300w" sizes="(max-width: 629px) 100vw, 629px" /></figure></div>
+
+
+
+<p style="font-size:18px">在左下角的搜尋窗口輸入“控制台”或“Control”，然後進入控制台→選擇程式集→檢視已安裝的更新，尋找導致兼容問題的更新，然後罪將魁禍首解除安裝並重啟電腦就可以回復正常了！還不要忘記進入Windows Update 界面，將更新暫停一段時間，一般兼容性問題都會很快得到解決，即使後來又自動安裝了更新通常都不會導致問題再發生。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del2.jpg" alt="" class="wp-image-565" width="566" height="483" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del2.jpg 788w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del2-300x256.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del2-768x656.jpg 768w" sizes="(max-width: 566px) 100vw, 566px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del4.jpg" alt="" class="wp-image-567" width="562" height="258" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del4.jpg 658w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del4-300x138.jpg 300w" sizes="(max-width: 562px) 100vw, 562px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del3-1024x543.jpg" alt="" class="wp-image-566" width="733" height="389" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del3-1024x543.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del3-300x159.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del3-768x407.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del3.jpg 1172w" sizes="(max-width: 733px) 100vw, 733px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del5.jpg" alt="" class="wp-image-568" width="665" height="485" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del5.jpg 878w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del5-300x219.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/Win10_Del5-768x561.jpg 768w" sizes="(max-width: 665px) 100vw, 665px" /></figure></div>
+
+
+
+<p style="font-size:18px">這就是今期FFRabbit 的科技小Tips ，希望能夠讓你的電腦回復正常！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MACBOOK 識講嘢？！簡單五步令到你嘅MACBOOK 讀出心水字句</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/05/macbook-%e8%ad%98%e8%ac%9b%e5%98%a2%ef%bc%9f%ef%bc%81%e7%b0%a1%e5%96%ae%e4%ba%94%e6%ad%a5%e4%bb%a4%e5%88%b0%e4%bd%a0%e5%98%85macbook-%e8%ae%80%e5%87%ba%e5%bf%83%e6%b0%b4%e5%ad%97%e5%8f%a5/</link>
+		
+		<dc:creator><![CDATA[Alex Sze]]></dc:creator>
+		<pubDate>Mon, 04 May 2020 15:01:32 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=540</guid>
+
+					<description><![CDATA[MacBook 有唔小隱藏功能經常令大家嚇一跳，今日FFRabbit 就同大家分享一下點樣用Script Editor令到你嘅MacBook 讀出心水字句。 首先，去Macbook 嘅Launchpad 入面打開Script Editor。 然後，點擊打開&#8221;New Document&#8221;。 打開之後你會睇到白色上下兩個格仔，係上面格仔打&#8217;say + &#8220;（你中意嘅字）&#8221;&#8216;。 再禁白色格仔上面嘅三角形，你嘅MacBook 就開始講野啦！ 最後你可以Save 低佢下次開返出黎嚇下朋友。（FFRabbit 就經常上lecture 嘅時候用佢嚇訓緊覺嘅朋友XD） TextEditor 其實係一個編程軟件，所以識Programming 嘅朋友仔可以盡程發揮你地嘅想像力試下唔同嘅玩法！不過TextEditor 只支援英文，所以暫時讀唔到中文。 最後，希望呢個post 幫到大家prank 朋友啦！]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">MacBook 有唔小隱藏功能經常令大家嚇一跳，今日FFRabbit 就同大家分享一下點樣用Script Editor令到你嘅MacBook 讀出心水字句。</p>
+
+
+
+<p style="font-size:18px">首先，去Macbook 嘅Launchpad 入面打開Script Editor。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1.jpg" alt="" class="wp-image-556" width="781" height="562" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1.jpg 806w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1-300x216.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1-768x553.jpg 768w" sizes="(max-width: 781px) 100vw, 781px" /></figure></div>
+
+
+
+<p>然後，點擊打開&#8221;New Document&#8221;。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-1024x734.jpg" alt="" class="wp-image-555" width="844" height="605" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-1024x734.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-300x215.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-768x550.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2.jpg 1171w" sizes="(max-width: 844px) 100vw, 844px" /></figure></div>
+
+
+
+<p style="font-size:18px">打開之後你會睇到白色上下兩個格仔，係上面格仔打&#8217;say + &#8220;（你中意嘅字）&#8221;&#8216;。</p>
+
+
+
+<p style="font-size:18px">再禁白色格仔上面嘅三角形，你嘅MacBook 就開始講野啦！</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-1018x1024.png" alt="" class="wp-image-554" width="910" height="915" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-1018x1024.png 1018w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-298x300.png 298w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-150x150.png 150w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-768x773.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-1527x1536.png 1527w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3.png 1624w" sizes="(max-width: 910px) 100vw, 910px" /></figure></div>
+
+
+
+<p style="font-size:18px">最後你可以Save 低佢下次開返出黎嚇下朋友。（FFRabbit 就經常上lecture 嘅時候用佢嚇訓緊覺嘅朋友XD）</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-1018x1024.png" alt="" class="wp-image-553" width="937" height="943" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-1018x1024.png 1018w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-298x300.png 298w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-150x150.png 150w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-768x773.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-1527x1536.png 1527w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4.png 1624w" sizes="(max-width: 937px) 100vw, 937px" /></figure></div>
+
+
+
+<p style="font-size:18px">TextEditor 其實係一個編程軟件，所以識Programming 嘅朋友仔可以盡程發揮你地嘅想像力試下唔同嘅玩法！不過TextEditor 只支援英文，所以暫時讀唔到中文。</p>
+
+
+
+<p style="font-size:18px">最後，希望呢個post 幫到大家prank 朋友啦！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>手機攝影配件推薦:五款提升攝影質素和體驗的手機配件</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/05/%e4%ba%94%e6%ac%be%e6%9c%80%e4%bd%b3%e6%89%8b%e6%a9%9f%e6%94%9d%e5%bd%b1%e9%85%8d%e4%bb%b6%e6%8e%a8%e8%96%a6/</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 04 May 2020 14:22:52 +0000</pubDate>
+				<category><![CDATA[3C產品配件]]></category>
+		<category><![CDATA[主機產品]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=539</guid>
+
+					<description><![CDATA[現今手機的拍攝能力越來越強， 不少人即使是出外旅遊也只會使用手機進行拍攝。 因此越來越多廠商針對手機攝影推出了不同的產品。 今日FFRabbit 就為你帶來五款可以讓你手機拍攝得心應手的攝影配件。 各式三腳架 三腳架毫無疑問是攝影的必需品，為攝影增加了無數可能性。一個小巧方便攜帶的三腳架就能幫助你在平面拍出穩定的照片，還能作為一個手柄手持手機拍攝。 而八爪魚式三腳架雖然體積較大，但可靈活調整的腳架可以使你的手機固定在崎嶇不平的表面，甚至能夠掛在一些無法想象的地方作為支架拍出精彩的照片。 外接補光燈 你是否煩惱於手機閃光燈效果太弱？在逆光低光的情況下一個外接補光燈可以大大提升你的拍照體驗，該款補光燈內置電池，體積細小，可以調節高低光度以配合不同場景要求，其採用通用接口，可以和各種手持支架組合和手機同時使用或直接手持補光。 手機防水袋 雖然現今不少旗艦手機有防水設計，但在水中拍攝仍然有很高風險，一個優秀的防水袋可以讓你放心在水中拍攝美景而不怕入水，這款防水袋設有兩層密封膠條，擁有多重保障，並且有抽繩可掛在身上避免失手，是你海邊旅行拍攝的好幫手。 便攜打印機 相信不少人都聽過Fuji 的instax mini 迷你即影即有相機，但拍攝功能少、無法後期處理照片。其實Fuji 除了即影即有相機還有迷你打印機產品，intstax SHARE SP-2 無線迷你打印機體積小，方便在旅行時隨身攜帶，其採用無線連接，可以在手機拍攝相片後透過專用軟件直接發送到打印機打印，最快僅需十秒，方便你將各地的精彩回憶匯聚成一張張照片。 手機穩定器 因為手震而難以拍攝完美的影片？希望用手機就能做到電影級的跟隨拍攝？手機穩定器可以幫到你，手機穩定器亦稱作雲台，透過對雲台姿態移動作出智能補償來達致穩定拍攝的效果。DJI OSMO Mobile 3 作為無人機大廠DJI 的手機拍攝產品，在穩定方面的質素自然有一定保證，其體積小，可以折疊放在背包，並擁有長達15 小時的續航，基本可以滿足一日的拍攝。其內置的智能跟隨模式或運動模式可以讓你無論在拍攝vlog 或運動場景都能游刃有餘，並支持單手操作切換不同模式及手勢控制，操作更為方便。]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">現今手機的拍攝能力越來越強， 不少人即使是出外旅遊也只會使用手機進行拍攝。 因此越來越多廠商針對手機攝影推出了不同的產品。 今日FFRabbit 就為你帶來五款可以讓你手機拍攝得心應手的攝影配件。</p>
+
+
+
+<h2>各式三腳架</h2>
+
+
+
+<p style="font-size:18px">三腳架毫無疑問是攝影的必需品，為攝影增加了無數可能性。一個小巧方便攜帶的三腳架就能幫助你在平面拍出穩定的照片，還能作為一個手柄手持手機拍攝。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/PhonePhoto_Acc2-1024x1024.jpg" alt="" class="wp-image-542" width="409" height="409" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc2-1024x1024.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc2-300x300.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc2-150x150.jpg 150w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc2-768x768.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc2-1536x1536.jpg 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc2-2048x2048.jpg 2048w" sizes="(max-width: 409px) 100vw, 409px" /></figure></div>
+
+
+
+<p style="font-size:18px">而八爪魚式三腳架雖然體積較大，但可靈活調整的腳架可以使你的手機固定在崎嶇不平的表面，甚至能夠掛在一些無法想象的地方作為支架拍出精彩的照片。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/PhonePhoto_Acc6.jpg" alt="" class="wp-image-546" width="473" height="526" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc6.jpg 748w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc6-269x300.jpg 269w" sizes="(max-width: 473px) 100vw, 473px" /></figure></div>
+
+
+
+<h2>外接補光燈</h2>
+
+
+
+<p style="font-size:18px">你是否煩惱於手機閃光燈效果太弱？在逆光低光的情況下一個外接補光燈可以大大提升你的拍照體驗，該款補光燈內置電池，體積細小，可以調節高低光度以配合不同場景要求，其採用通用接口，可以和各種手持支架組合和手機同時使用或直接手持補光。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/PhonePhoto_Acc4.jpg" alt="" class="wp-image-544" width="432" height="480" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc4.jpg 790w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc4-270x300.jpg 270w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc4-768x854.jpg 768w" sizes="(max-width: 432px) 100vw, 432px" /></figure></div>
+
+
+
+<h2>手機防水袋</h2>
+
+
+
+<p style="font-size:18px">雖然現今不少旗艦手機有防水設計，但在水中拍攝仍然有很高風險，一個優秀的防水袋可以讓你放心在水中拍攝美景而不怕入水，這款防水袋設有兩層密封膠條，擁有多重保障，並且有抽繩可掛在身上避免失手，是你海邊旅行拍攝的好幫手。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/PhonePhoto_Acc3.jpg" alt="" class="wp-image-543" width="517" height="445" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc3.jpg 789w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc3-300x259.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc3-768x662.jpg 768w" sizes="(max-width: 517px) 100vw, 517px" /></figure></div>
+
+
+
+<h2>便攜打印機</h2>
+
+
+
+<p style="font-size:18px">相信不少人都聽過Fuji 的instax mini 迷你即影即有相機，但拍攝功能少、無法後期處理照片。其實Fuji 除了即影即有相機還有迷你打印機產品，intstax SHARE SP-2 無線迷你打印機體積小，方便在旅行時隨身攜帶，其採用無線連接，可以在手機拍攝相片後透過專用軟件直接發送到打印機打印，最快僅需十秒，方便你將各地的精彩回憶匯聚成一張張照片。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/PhonePhoto_Acc7.jpg" alt="" class="wp-image-547" width="435" height="462" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc7.jpg 789w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc7-282x300.jpg 282w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc7-768x816.jpg 768w" sizes="(max-width: 435px) 100vw, 435px" /></figure></div>
+
+
+
+<h2>手機穩定器</h2>
+
+
+
+<p style="font-size:18px">因為手震而難以拍攝完美的影片？希望用手機就能做到電影級的跟隨拍攝？手機穩定器可以幫到你，手機穩定器亦稱作雲台，透過對雲台姿態移動作出智能補償來達致穩定拍攝的效果。DJI OSMO Mobile 3 作為無人機大廠DJI 的手機拍攝產品，在穩定方面的質素自然有一定保證，其體積小，可以折疊放在背包，並擁有長達15 小時的續航，基本可以滿足一日的拍攝。其內置的智能跟隨模式或運動模式可以讓你無論在拍攝vlog 或運動場景都能游刃有餘，並支持單手操作切換不同模式及手勢控制，操作更為方便。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/PhonePhoto_Acc5.jpg" alt="" class="wp-image-545" width="443" height="506" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc5.jpg 538w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/05/PhonePhoto_Acc5-262x300.jpg 262w" sizes="(max-width: 443px) 100vw, 443px" /></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Logitech 羅技G603 無線鼠標評測:打機辦公小幫手</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/04/logitech%e7%be%85%e6%8a%80g603%e7%84%a1%e7%b7%9a%e9%bc%a0%e6%a8%99%e7%b0%a1%e8%a9%95/</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2020 16:31:30 +0000</pubDate>
+				<category><![CDATA[3C產品配件]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=422</guid>
+
+					<description><![CDATA[隨著無線技術的進步，越來越多遊戲鼠標採用了無線連接技術，但大多採用內置電池，續航能力較低。但Logitech G603 兼顧遊戲性能和高續航的設計使它成為一個滿足你遊戲性能和辦公需求的全能無線鼠標。 G603 和G703 作為Logitech 其中一款熱門鼠標G403 的無線版後代，其三者外形相似，皆為右手鼠標。但G603 較傾向多工全能，而G403 和G703 則較注重遊戲。G603 採用灰黑配色，與其餘兩款的黑色相異。並且為了提高續航省去了Logo 燈，外形較為低調，適合在辦公室等地使用。雖然G603 採用與高階版G703 同樣的Lightspeed 低延遲鏈接技術，但G603 採用AA 電池供電，可以隨時更換，較為方便。G603 最多可同時使用兩粒AA 電池，並設有省電檔位，通過將刷新率降低至100Hz 達成省電的效果，在省電檔位的時候G603 最多可達到18 個月的續航，完全勝任長期工作需要，而在1000hz 刷新率的性能檔位中也擁有500 小時續航，遠超其他無線遊戲鼠標。除了續航性能優異，G603 作為無線遊戲鼠標也具有其他遊戲鼠標不具備的功能，例如藍牙鏈接。G603 支持Lightspped 和藍牙兩種鏈接模式，可以一鍵切換不同模式以控制不同設備，例如在辦公室可以同時利用Lightspeed 接收器控制台式電腦和藍牙鏈接控制手提電腦以提高工作效率，藍牙鏈接的支持也代表可以不需要接收器也能鏈接眾多設備，如各種平板電腦，手機，MacOS 的設備等，對缺乏USB 接口的輕薄手提電腦和平板電腦用家減少了很多麻煩。而且G603 擁有兩個側鍵，可以在驅動軟件中更改用途，作為快捷鍵使用，使工作更有效率。因此在辦公方面G603 可以滿足你的各項需要。 而G603 在作為遊戲鼠標，在遊戲方面的表現也十分搶眼，其採用Hero 傳感器，最高可達到12000DPI 靈敏度和超過400IPS 的追蹤速度，無論是對精確度要求高的遊戲還是對移動速度高的遊戲皆能滿足。而且在Lightspeed 鏈接技術的支持下，G603 的反應速度可達致1ms，和有線鼠標相同。擁有有線鼠標的反應速度，但沒有有線鼠標線材的阻滯感，使你在遊戲中移動視覺更順暢。 雖然G603 採用AA 電池供電，搭載兩顆普通AA 電池時達到135.7g，對遊戲玩家來說稍微偏重，但通過只使用一顆AA 電池並使用USB 充電的輕型AA 電池可以有效將鼠標重量降低到105g 左右，和有線鼠標持平，更適合遊戲。加上兩個可編程側鍵，使G603 在遊戲方面不遜於部分旗艦級遊戲鼠標。 總括而言，G603 在遊戲和工作兩個方面取得了良好的平衡，其良好的續航和藍牙鏈接功能使其可以勝任各種工作需要，而其優異的反應速度和傳感器加上可透過選用電池而達到的較低重量則令G603 在遊戲方面亦能滿足不同玩家的要求。因此G603 可以作為一款你的主力鼠標遊走在辦公和電競之間而沒有任何妥協。]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">隨著無線技術的進步，越來越多遊戲鼠標採用了無線連接技術，但大多採用內置電池，續航能力較低。但Logitech G603 兼顧遊戲性能和高續航的設計使它成為一個滿足你遊戲性能和辦公需求的全能無線鼠標。</p>
+
+
+
+<p style="font-size:18px">G603 和G703 作為Logitech 其中一款熱門鼠標G403 的無線版後代，其三者外形相似，皆為右手鼠標。但G603 較傾向多工全能，而G403 和G703 則較注重遊戲。G603 採用灰黑配色，與其餘兩款的黑色相異。並且為了提高續航省去了Logo 燈，外形較為低調，適合在辦公室等地使用。雖然G603 採用與高階版G703 同樣的Lightspeed 低延遲鏈接技術，但G603 採用AA 電池供電，可以隨時更換，較為方便。G603 最多可同時使用兩粒AA 電池，並設有省電檔位，通過將刷新率降低至100Hz 達成省電的效果，在省電檔位的時候G603 最多可達到18 個月的續航，完全勝任長期工作需要，而在1000hz 刷新率的性能檔位中也擁有500 小時續航，遠超其他無線遊戲鼠標。除了續航性能優異，G603 作為無線遊戲鼠標也具有其他遊戲鼠標不具備的功能，例如藍牙鏈接。G603 支持Lightspped 和藍牙兩種鏈接模式，可以一鍵切換不同模式以控制不同設備，例如在辦公室可以同時利用Lightspeed 接收器控制台式電腦和藍牙鏈接控制手提電腦以提高工作效率，藍牙鏈接的支持也代表可以不需要接收器也能鏈接眾多設備，如各種平板電腦，手機，MacOS 的設備等，對缺乏USB 接口的輕薄手提電腦和平板電腦用家減少了很多麻煩。而且G603 擁有兩個側鍵，可以在驅動軟件中更改用途，作為快捷鍵使用，使工作更有效率。因此在辦公方面G603 可以滿足你的各項需要。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/g603-gallery-5.png" alt="" class="wp-image-374" width="596" height="447" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/g603-gallery-5.png 692w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/g603-gallery-5-300x225.png 300w" sizes="(max-width: 596px) 100vw, 596px" /></figure></div>
+
+
+
+<p style="font-size:18px">而G603 在作為遊戲鼠標，在遊戲方面的表現也十分搶眼，其採用Hero 傳感器，最高可達到12000DPI 靈敏度和超過400IPS 的追蹤速度，無論是對精確度要求高的遊戲還是對移動速度高的遊戲皆能滿足。而且在Lightspeed 鏈接技術的支持下，G603 的反應速度可達致1ms，和有線鼠標相同。擁有有線鼠標的反應速度，但沒有有線鼠標線材的阻滯感，使你在遊戲中移動視覺更順暢。</p>
+
+
+
+<p style="font-size:18px">雖然G603 採用AA 電池供電，搭載兩顆普通AA 電池時達到135.7g，對遊戲玩家來說稍微偏重，但通過只使用一顆AA 電池並使用USB 充電的輕型AA 電池可以有效將鼠標重量降低到105g 左右，和有線鼠標持平，更適合遊戲。加上兩個可編程側鍵，使G603 在遊戲方面不遜於部分旗艦級遊戲鼠標。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/1935740441-2-1024x766.jpg" alt="" class="wp-image-425" width="603" height="451" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1935740441-2-1024x766.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1935740441-2-300x224.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1935740441-2-768x574.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1935740441-2-1536x1149.jpg 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1935740441-2-2048x1532.jpg 2048w" sizes="(max-width: 603px) 100vw, 603px" /></figure></div>
+
+
+
+<p style="font-size:18px">總括而言，G603 在遊戲和工作兩個方面取得了良好的平衡，其良好的續航和藍牙鏈接功能使其可以勝任各種工作需要，而其優異的反應速度和傳感器加上可透過選用電池而達到的較低重量則令G603 在遊戲方面亦能滿足不同玩家的要求。因此G603 可以作為一款你的主力鼠標遊走在辦公和電競之間而沒有任何妥協。</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>手提電腦配件推薦:八款提升工作效率和體驗的手提電腦配件</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/04/%e5%85%ab%e6%ac%be%e6%9c%80%e4%bd%b3%e6%89%8b%e6%8f%90%e9%9b%bb%e8%85%a6%e9%85%8d%e4%bb%b6%e6%8e%a8%e8%96%a6/</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2020 16:25:26 +0000</pubDate>
+				<category><![CDATA[3C產品配件]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=393</guid>
+
+					<description><![CDATA[現今手提電腦的性能越來越強大，因此不少人無論在家或者出外工作都會使用手提電腦，因此FFRabbit 今天就為你介紹八種不同的手提電腦配件以提升你的使用體驗和工作效率。 Logitech MX Master 3/ Anywhere 2S 雖然手提電腦的觸控板一定程度上能提供最基本的移動功能，但由於體積所限，其仍然較難滿足高效率的工作要求。因此，一款好用的無線鼠標就成為一部手提電腦的最基本配件。Logitech MX Master 3 支持Logitech Flow，可以同時控制3 部電腦，並跨設備複製文字文件等，而且可配對3 個設備，加上可快速滾動的滾輪，對文檔編輯等工作有很大的提升。如果覺得MX Master 3 太大，也可以選擇Anywhere 2S，其基本功能大致一樣，為Master 3 的小巧版。 支持PD/QC的大容量外置充電器 現今大部分手提電腦的標稱續航大概在5-7 小時左右，但實際會更短，有時在外工作沒有插座的時候就需要一個支持快充的大容量外置充電器為你的手提電腦充電。市場上現今有不少超過20000mAh 的外置充電器提供，並支持PD/QC 等快充協議，加上現今大多便攜手提電腦都支持USB Type-C 供電，如MacBook、Dell XPS 等，因此一條支持快充協議的充電線已經可以滿足需求。即使是一些只能用圓頭DC 接口充電的電腦也能透過使用轉換線利用外置充電器充電。 支持Type-C &#38; Type-A的雙接口USB手指 雖然隨著雲端服務的發展，USB 手指的重要性有所下降，但USB 手指在很多工作情況中仍然有其用處，尤其是大容量雲端服務的高昂價格和私隱問題。SanDisk Ultra Dual Drive USB Type-C Flash Dirve 有16-256GB 容量可選，並採用USB 3.1 傳輸協議，讀寫速度最高可達150MB/s。並且雙接口的設計可以在一些沒有或者較少USB Type-A 接口的移動設備上使用，並轉移文件到只有USB Type-A 接口的台式電腦中，更為方便。 移動固態硬盤 如果USB&#8230;&#160;<a href="https://https://alexsze.github.io/ffrabbit/2020/04/%e5%85%ab%e6%ac%be%e6%9c%80%e4%bd%b3%e6%89%8b%e6%8f%90%e9%9b%bb%e8%85%a6%e9%85%8d%e4%bb%b6%e6%8e%a8%e8%96%a6/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">手提電腦配件推薦:八款提升工作效率和體驗的手提電腦配件</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">現今手提電腦的性能越來越強大，因此不少人無論在家或者出外工作都會使用手提電腦，因此FFRabbit 今天就為你介紹八種不同的手提電腦配件以提升你的使用體驗和工作效率。</p>
+
+
+
+<p style="font-size:22px">Logitech MX Master 3/ Anywhere 2S</p>
+
+
+
+<div class="wp-block-coblocks-gallery-carousel"><div class="is-cropped coblocks-gallery has-no-alignment has-caption-style-dark has-horizontal-gutter"><div class="has-carousel has-carousel-lrg" style="height:445px" data-flickity="{&quot;autoPlay&quot;:false,&quot;draggable&quot;:true,&quot;pageDots&quot;:false,&quot;prevNextButtons&quot;:true,&quot;wrapAround&quot;:true,&quot;cellAlign&quot;:&quot;center&quot;,&quot;pauseAutoPlayOnHover&quot;:false,&quot;freeScroll&quot;:false,&quot;arrowShape&quot;:{&quot;x0&quot;:10,&quot;x1&quot;:60,&quot;y1&quot;:50,&quot;x2&quot;:65,&quot;y2&quot;:45,&quot;x3&quot;:20},&quot;thumbnails&quot;:false,&quot;responsiveHeight&quot;:false}"><div class="coblocks-gallery--item"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img src="http://34.83.168.187/wp-content/uploads/2020/04/mx-master-3.png" alt=""/></figure></div><div class="coblocks-gallery--item"><figure class="coblocks-gallery--figure has-margin-left-5 has-margin-left-mobile-5 has-margin-right-5 has-margin-right-mobile-5"><img src="http://34.83.168.187/wp-content/uploads/2020/04/mx-anywhere-2s-1.png" alt="" data-id="396" data-link="http://34.83.168.187/?attachment_id=396" class="wp-image-396"/></figure></div></div></div></div>
+
+
+
+<p style="font-size:18px">雖然手提電腦的觸控板一定程度上能提供最基本的移動功能，但由於體積所限，其仍然較難滿足高效率的工作要求。因此，一款好用的無線鼠標就成為一部手提電腦的最基本配件。Logitech MX Master 3 支持Logitech Flow，可以同時控制3 部電腦，並跨設備複製文字文件等，而且可配對3 個設備，加上可快速滾動的滾輪，對文檔編輯等工作有很大的提升。如果覺得MX Master 3 太大，也可以選擇Anywhere 2S，其基本功能大致一樣，為Master 3 的小巧版。</p>
+
+
+
+<p style="font-size:22px">支持PD/QC的大容量外置充電器</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/61iL7Y2xrFL._AC_SL1500_-925x1024.jpg" alt="" class="wp-image-399" width="418" height="463" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/61iL7Y2xrFL._AC_SL1500_-925x1024.jpg 925w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/61iL7Y2xrFL._AC_SL1500_-271x300.jpg 271w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/61iL7Y2xrFL._AC_SL1500_-768x850.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/61iL7Y2xrFL._AC_SL1500_.jpg 1163w" sizes="(max-width: 418px) 100vw, 418px" /></figure></div>
+
+
+
+<p style="font-size:18px">現今大部分手提電腦的標稱續航大概在5-7 小時左右，但實際會更短，有時在外工作沒有插座的時候就需要一個支持快充的大容量外置充電器為你的手提電腦充電。市場上現今有不少超過20000mAh 的外置充電器提供，並支持PD/QC 等快充協議，加上現今大多便攜手提電腦都支持USB Type-C 供電，如MacBook、Dell XPS 等，因此一條支持快充協議的充電線已經可以滿足需求。即使是一些只能用圓頭DC 接口充電的電腦也能透過使用轉換線利用外置充電器充電。</p>
+
+
+
+<p style="font-size:22px">支持Type-C &amp; Type-A的雙接口USB手指</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/ultra-dual-drive-usb-type-c-flat-type-copen.png.thumb_.1280.1280-1024x1024.png" alt="" class="wp-image-400" width="501" height="501" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/ultra-dual-drive-usb-type-c-flat-type-copen.png.thumb_.1280.1280-1024x1024.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/ultra-dual-drive-usb-type-c-flat-type-copen.png.thumb_.1280.1280-300x300.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/ultra-dual-drive-usb-type-c-flat-type-copen.png.thumb_.1280.1280-150x150.png 150w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/ultra-dual-drive-usb-type-c-flat-type-copen.png.thumb_.1280.1280-768x768.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/ultra-dual-drive-usb-type-c-flat-type-copen.png.thumb_.1280.1280.png 1280w" sizes="(max-width: 501px) 100vw, 501px" /></figure></div>
+
+
+
+<p style="font-size:18px">雖然隨著雲端服務的發展，USB 手指的重要性有所下降，但USB 手指在很多工作情況中仍然有其用處，尤其是大容量雲端服務的高昂價格和私隱問題。SanDisk Ultra Dual Drive USB Type-C Flash Dirve 有16-256GB 容量可選，並採用USB 3.1 傳輸協議，讀寫速度最高可達150MB/s。並且雙接口的設計可以在一些沒有或者較少USB Type-A 接口的移動設備上使用，並轉移文件到只有USB Type-A 接口的台式電腦中，更為方便。</p>
+
+
+
+<p style="font-size:22px">移動固態硬盤</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/extreme-usb-3-1-ssd-flat.png.thumb_.1280.1280-1024x1024.png" alt="" class="wp-image-401" width="476" height="476" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/extreme-usb-3-1-ssd-flat.png.thumb_.1280.1280-1024x1024.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/extreme-usb-3-1-ssd-flat.png.thumb_.1280.1280-300x300.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/extreme-usb-3-1-ssd-flat.png.thumb_.1280.1280-150x150.png 150w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/extreme-usb-3-1-ssd-flat.png.thumb_.1280.1280-768x768.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/extreme-usb-3-1-ssd-flat.png.thumb_.1280.1280.png 1280w" sizes="(max-width: 476px) 100vw, 476px" /></figure></div>
+
+
+
+<p style="font-size:18px">如果USB 手指的容量已經滿足不了你的儲存需要，移動硬盤可以作為你的選擇，由於現今固態硬盤價格已經較低，加上比機械硬盤在性能上有大幅提升，較建議選擇移動固態硬盤。SanDisk Extreme Portable SSD 採用Type- C接口並附帶轉接器，無需煩惱兼容性問題，並且具有IP55 防水防塵認證，加上抗跌落設計，在外出使用時也不怕各種意外，加上低於40g 的迷你設計和高達550MB/s 的讀取速度，是你外出工作的最佳存儲設備。</p>
+
+
+
+<p style="font-size:22px">手提電腦防窺膜</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/O1CN010Uson41PWQWS918ns_2121301848.jpg" alt="" class="wp-image-402" width="556" height="291" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/O1CN010Uson41PWQWS918ns_2121301848.jpg 784w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/O1CN010Uson41PWQWS918ns_2121301848-300x157.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/O1CN010Uson41PWQWS918ns_2121301848-768x402.jpg 768w" sizes="(max-width: 556px) 100vw, 556px" /></figure></div>
+
+
+
+<p style="font-size:18px">相信許多人在外辦公的時候都不希望周圍的人見到你的工作內容，這款防窺膜有多種尺寸選擇，並採用無膠貼膜方式，可隨時取下。貼上防窺膜之後只有在屏幕正面才能見到顯示內容，側面只會見到一片漆黑，不用再擔心旁人見到你的私隱。</p>
+
+
+
+<p style="font-size:22px">手提電腦支架</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/TB23z5EgInI8KJjSspeXXcwIpXa_362426318.jpg" alt="" class="wp-image-403" width="558" height="477" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/TB23z5EgInI8KJjSspeXXcwIpXa_362426318.jpg 789w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/TB23z5EgInI8KJjSspeXXcwIpXa_362426318-300x256.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/TB23z5EgInI8KJjSspeXXcwIpXa_362426318-768x656.jpg 768w" sizes="(max-width: 558px) 100vw, 558px" /></figure></div>
+
+
+
+<p style="font-size:18px">在家工作時會否因為長期低頭對著手提電腦屏幕而感到頸部不適？顯示器的高度和眼睛平視高度一致有助於頸部的健康，因此一個能夠提高手提電腦高度的支架就很有必要，該支架有三個高度檔位可調，可以因應桌面高度調整，而且該支架兼容13-17 寸的手提電腦，外形也十分時尚。</p>
+
+
+
+<p style="font-size:22px">機械鍵盤</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/rsz_black-lighted-gaming-keyboard-841228-1024x683.jpg" alt="" class="wp-image-415" width="615" height="410" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/rsz_black-lighted-gaming-keyboard-841228-1024x683.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/rsz_black-lighted-gaming-keyboard-841228-300x200.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/rsz_black-lighted-gaming-keyboard-841228-768x512.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/rsz_black-lighted-gaming-keyboard-841228-930x620.jpg 930w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/rsz_black-lighted-gaming-keyboard-841228.jpg 1500w" sizes="(max-width: 615px) 100vw, 615px" /></figure></div>
+
+
+
+<p style="font-size:18px">在家工作時受夠了手提電腦內置鍵盤不佳的手感和缺少的按鍵？一個好用的外置機械鍵盤可以大大提升辦公時的手感，而且完整的按鍵也能使工作更方便，一些機械鍵盤甚至可以提供數個可編程的快捷鍵，可以綁定工作軟件的一些操作鍵，使工作更有效率。部分機械鍵盤甚至擁有無線和便攜的設計，即使外出時也可以隨身攜帶，例如早前介紹的<a href="http://34.83.168.187/2020/04/%e6%a5%b5%e8%87%b4%e4%be%bf%e6%94%9c%e7%9a%84%e9%ab%98cp%e5%80%bc%e7%84%a1%e7%b7%9a%e6%a9%9f%e6%a2%b0%e9%8d%b5%e7%9b%a4/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener nofollow" class="rank-math-link">DAREU EK820鍵盤</a>。</p>
+
+
+
+<p style="font-size:22px">合適的電腦包</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/O1CN015Uyxf82LM7HjfmOGv_1829199677.jpg" alt="" class="wp-image-409" width="589" height="374" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/O1CN015Uyxf82LM7HjfmOGv_1829199677.jpg 783w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/O1CN015Uyxf82LM7HjfmOGv_1829199677-300x190.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/O1CN015Uyxf82LM7HjfmOGv_1829199677-768x487.jpg 768w" sizes="(max-width: 589px) 100vw, 589px" /></figure></div>
+
+
+
+<p style="font-size:18px">很明顯你不會直接抱著手提電腦外出，一個合適的電腦包除了可以將你的手提電腦，鼠標，移動硬盤和電源等整整齊齊地分類放好。還能給你的手提電腦一個合適的防護，即使是失手把背包跌落也可以減少對手提電腦的損害。而且電腦包有各式各樣的風格，挑選一個和你契合的電腦包也有助於提升你的個人形象。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>極致便攜的高CP值無線機械鍵盤-DAREU EK820 68Key 評測</title>
+		<link>https://https://alexsze.github.io/ffrabbit/2020/04/%e6%a5%b5%e8%87%b4%e4%be%bf%e6%94%9c%e7%9a%84%e9%ab%98cp%e5%80%bc%e7%84%a1%e7%b7%9a%e6%a9%9f%e6%a2%b0%e9%8d%b5%e7%9b%a4/</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 16:46:08 +0000</pubDate>
+				<category><![CDATA[3C產品配件]]></category>
+		<category><![CDATA[機械鍵盤]]></category>
+		<category><![CDATA[無線]]></category>
+		<category><![CDATA[移動辦公]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=228</guid>
+
+					<description><![CDATA[一款合適的鍵盤可以提高工作效率和舒適度。隨著越來越多人採取移動辦公的工作模式，一款比手提電腦內置鍵盤更舒適，但又可以隨身攜帶的鍵盤成為不少IT 工作者和文字工作者的需求。而DAREU EK820 68Key 無線機械鍵盤正正可以為你帶來一個舒適而有效率的工作環境。 DAREU EK820 作為一款售價300 元左右針對小巧便攜設計的無線機械鍵盤，對傳統機械鍵盤在便攜性上的缺點進行了大量的改良。通過將鍵位縮減到68 鍵並採用較新的Kailh 半高紅/青軸，使鍵盤的大小和重量大幅縮減，該鍵盤僅重約500g，而31cm 的長度和2.25cm 的厚度也使該鍵盤的尺寸達到了13 寸手提電腦的水平，可以收納在為13 寸手提電腦設計的電腦包，增加了便攜性，而有線/藍牙無線雙連接模式設計使在家中使用時可以通過USB 線連接充電，而在外工作時使用藍牙無線模式。藍牙模式可兼容幾乎所有電子設備，Windows，Mac，IOS，Android 等設備皆可支持，而鍵盤可最多記憶5 個設備並隨時切換，大大提升了方便程度，即便是使用手機或者平板電腦也可以利用鍵盤高效率地進行文檔工作。美中不足的是鍵盤內置電池容量只有300mAH，續航時間較短，需要每日充電。 該鍵盤採用68 鍵佈局，傳統鍵盤的Function 鍵被整合至數字鍵，需要Fn+對應數字鍵才能實現F1-12 的功能。不過方向鍵和翻頁鍵的保留使其能夠勝任文檔編輯工作。鍵盤在有線連接下可開啟淡藍色背光，提升在黑暗環境下的識別度，不過無線模式下則為了減少耗電而不能開啟。由於矮軸軸體的設計並非十字，使其無法兼容其他鍵帽，不過自帶的超薄鍵帽已經可以滿足大部分人的使用需求，而鍵程的減少也使得鍵帽的穩定性增加，即使在鍵帽的四角按下按鍵，鍵帽的晃動也很小，有助提高打字效率。 總結而言，DAREU EK820 作為一款輕薄無線機械鍵盤，68 鍵位的設定已經可以滿足大部分有移動工作需求的使用者。該鍵盤也具備背光系統，藍牙無線設備切換等基本功能。雖然內置的電池容量較小，但在300 元這個價位上已經算是絕無僅有的高CP 值輕薄無線機械鍵盤，十分適合大量使用鍵盤工作的移動辦公人士。該鍵盤可選白色或黑色，青軸或紅軸，適合搭配不同款式手提電腦和對打字手感有不同需要的人士。]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">一款合適的鍵盤可以提高工作效率和舒適度。隨著越來越多人採取移動辦公的工作模式，一款比手提電腦內置鍵盤更舒適，但又可以隨身攜帶的鍵盤成為不少IT 工作者和文字工作者的需求。而DAREU EK820 68Key 無線機械鍵盤正正可以為你帶來一個舒適而有效率的工作環境。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/1-1Z925162233U0-1024x460.jpg" alt="" class="wp-image-229" width="760" height="341" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162233U0-1024x460.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162233U0-300x135.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162233U0-768x345.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162233U0-1536x690.jpg 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162233U0.jpg 1920w" sizes="(max-width: 760px) 100vw, 760px" /></figure></div>
+
+
+
+<p style="font-size:18px">DAREU EK820 作為一款售價300 元左右針對小巧便攜設計的無線機械鍵盤，對傳統機械鍵盤在便攜性上的缺點進行了大量的改良。通過將鍵位縮減到68 鍵並採用較新的Kailh 半高紅/青軸，使鍵盤的大小和重量大幅縮減，該鍵盤僅重約500g，而31cm 的長度和2.25cm 的厚度也使該鍵盤的尺寸達到了13 寸手提電腦的水平，可以收納在為13 寸手提電腦設計的電腦包，增加了便攜性，而有線/藍牙無線雙連接模式設計使在家中使用時可以通過USB 線連接充電，而在外工作時使用藍牙無線模式。藍牙模式可兼容幾乎所有電子設備，Windows，Mac，IOS，Android 等設備皆可支持，而鍵盤可最多記憶5 個設備並隨時切換，大大提升了方便程度，即便是使用手機或者平板電腦也可以利用鍵盤高效率地進行文檔工作。美中不足的是鍵盤內置電池容量只有300mAH，續航時間較短，需要每日充電。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/1-1Z91Q4462X07-1024x459.jpg" alt="" class="wp-image-231" width="890" height="399" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z91Q4462X07-1024x459.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z91Q4462X07-300x135.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z91Q4462X07-768x344.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z91Q4462X07-1536x689.jpg 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z91Q4462X07.jpg 1920w" sizes="(max-width: 890px) 100vw, 890px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/1-1Z925162234348-1024x460.jpg" alt="" class="wp-image-230" width="882" height="396" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234348-1024x460.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234348-300x135.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234348-768x345.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234348-1536x690.jpg 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234348.jpg 1920w" sizes="(max-width: 882px) 100vw, 882px" /></figure></div>
+
+
+
+<p style="font-size:18px">該鍵盤採用68 鍵佈局，傳統鍵盤的Function 鍵被整合至數字鍵，需要Fn+對應數字鍵才能實現F1-12 的功能。不過方向鍵和翻頁鍵的保留使其能夠勝任文檔編輯工作。鍵盤在有線連接下可開啟淡藍色背光，提升在黑暗環境下的識別度，不過無線模式下則為了減少耗電而不能開啟。由於矮軸軸體的設計並非十字，使其無法兼容其他鍵帽，不過自帶的超薄鍵帽已經可以滿足大部分人的使用需求，而鍵程的減少也使得鍵帽的穩定性增加，即使在鍵帽的四角按下按鍵，鍵帽的晃動也很小，有助提高打字效率。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/04/1-1Z925162234352-1024x460.jpg" alt="" class="wp-image-232" width="635" height="285" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234352-1024x460.jpg 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234352-300x135.jpg 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234352-768x345.jpg 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234352-1536x690.jpg 1536w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/1-1Z925162234352.jpg 1920w" sizes="(max-width: 635px) 100vw, 635px" /></figure></div>
+
+
+
+<p style="font-size:18px">總結而言，DAREU EK820 作為一款輕薄無線機械鍵盤，68 鍵位的設定已經可以滿足大部分有移動工作需求的使用者。該鍵盤也具備背光系統，藍牙無線設備切換等基本功能。雖然內置的電池容量較小，但在300 元這個價位上已經算是絕無僅有的高CP 值輕薄無線機械鍵盤，十分適合大量使用鍵盤工作的移動辦公人士。該鍵盤可選白色或黑色，青軸或紅軸，適合搭配不同款式手提電腦和對打字手感有不同需要的人士。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
