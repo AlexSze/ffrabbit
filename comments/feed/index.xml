@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for 	</title>
-	<atom:link href="https://https://alexsze.github.io/ffrabbit/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://alexsze.github.io/ffrabbit/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>-Tech tips</description>
 	<lastBuildDate>Wed, 07 Apr 2021 12:03:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>遊戲專區</title>
-	<atom:link href="https://https://alexsze.github.io/ffrabbit/category/%E9%81%8A%E6%88%B2%E5%B0%88%E5%8D%80/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://alexsze.github.io/ffrabbit/</link>
+	<atom:link href="./../../%E9%81%8A%E6%88%B2%E5%B0%88%E5%8D%80/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>-Tech tips</description>
 	<lastBuildDate>Mon, 27 Jul 2020 12:26:21 +0000</lastBuildDate>
 	<language>en</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/04/cropped-logo_square-32x32.png</url>
+	<url>./../../../wp-content/uploads/2020/04/cropped-logo_square-32x32.png</url>
 	<title>遊戲專區</title>
-	<link>https://https://alexsze.github.io/ffrabbit/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Windows10熒幕錄製功能介紹：不用再錯過你遊戲中的精彩時刻！</title>
-		<link>https://https://alexsze.github.io/ffrabbit/2020/07/%e4%b8%8d%e7%94%a8%e5%86%8d%e9%8c%af%e9%81%8e%e4%bd%a0%e9%81%8a%e6%88%b2%e4%b8%ad%e7%9a%84%e7%b2%be%e5%bd%a9%e6%99%82%e5%88%bb%ef%bc%81win10-%e7%86%92%e5%b9%95%e9%8c%84%e8%a3%bd%e5%8a%9f%e8%83%bd/</link>
+		<link>./../../../2020/07/%e4%b8%8d%e7%94%a8%e5%86%8d%e9%8c%af%e9%81%8e%e4%bd%a0%e9%81%8a%e6%88%b2%e4%b8%ad%e7%9a%84%e7%b2%be%e5%bd%a9%e6%99%82%e5%88%bb%ef%bc%81win10-%e7%86%92%e5%b9%95%e9%8c%84%e8%a3%bd%e5%8a%9f%e8%83%bd/index.html</link>
 		
 		<dc:creator><![CDATA[John Poon]]></dc:creator>
 		<pubDate>Mon, 27 Jul 2020 12:21:58 +0000</pubDate>
@@ -47,11 +47,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png" alt="" class="wp-image-644" width="822" height="411" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1-300x150.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1-768x384.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_1.png 1191w" sizes="(max-width: 822px) 100vw, 822px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png" alt="" class="wp-image-644" width="822" height="411" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1-300x150.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1-768x384.png 768w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1.png 1191w" sizes="(max-width: 822px) 100vw, 822px" /></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png" alt="" class="wp-image-645" width="797" height="686" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2-300x258.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2-768x662.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_2.png 1061w" sizes="(max-width: 797px) 100vw, 797px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png" alt="" class="wp-image-645" width="797" height="686" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2-300x258.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2-768x662.png 768w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2.png 1061w" sizes="(max-width: 797px) 100vw, 797px" /></figure></div>
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_3-1024x670.png" alt="" class="wp-image-646" width="801" height="524" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_3.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_3-300x196.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_3-768x503.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_3-1024x670.png" alt="" class="wp-image-646" width="801" height="524" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_3.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_3-300x196.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_3-768x503.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></figure></div>
 
 
 
@@ -67,7 +67,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_4-1024x772.png" alt="" class="wp-image-647" width="804" height="606" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_4.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_4-300x226.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Win10GameCap_4-768x579.png 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_4-1024x772.png" alt="" class="wp-image-647" width="804" height="606" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_4.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_4-300x226.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_4-768x579.png 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure></div>
 
 
 
@@ -79,14 +79,14 @@
 			</item>
 		<item>
 		<title>[Minecraft Java Edition] 10分鐘內架設Minecraft 伺服器！！</title>
-		<link>https://https://alexsze.github.io/ffrabbit/2020/07/minecraft-java-edition-10%e5%88%86%e9%90%98%e5%85%a7%e6%9e%b6%e8%a8%adminecraft-%e4%bc%ba%e6%9c%8d%e5%99%a8%ef%bc%81%ef%bc%81/</link>
+		<link>./../../../2020/07/minecraft-java-edition-10%e5%88%86%e9%90%98%e5%85%a7%e6%9e%b6%e8%a8%adminecraft-%e4%bc%ba%e6%9c%8d%e5%99%a8%ef%bc%81%ef%bc%81/index.html</link>
 		
 		<dc:creator><![CDATA[Alex Sze]]></dc:creator>
 		<pubDate>Tue, 21 Jul 2020 12:59:49 +0000</pubDate>
 				<category><![CDATA[遊戲專區]]></category>
 		<guid isPermaLink="false">http://34.83.168.187/?p=621</guid>
 
-					<description><![CDATA[市面上有唔同架設Minecraft 伺服器嘅方法，但大部份較為繁複。為左幫大家慳時間，FFRabbit 希望係度同大家分享一個可以係唔同私人網絡嘅情況下架設Minecraft 伺服器嘅方法。 1 下載Minecraft 首先，下載Minecraft。Minecraft 官網：https://www.minecraft.net/en-us/download/（請支持正版） 2 下載Hamachi 然後，你會需要一個虛擬私人網絡，而虛擬私人網絡嘅架設可以交比Hamachi 解決。Hamachi 官網：https://www.vpn.net/ 3 Hamachi 設定（主辦） 接下來，主辦會需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Create a new network。然後設置ID 及密碼。 4 Hamachi 設定（玩家） 玩家亦需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Join an existing network。然後輸入由主辦設置嘅ID 及密碼。 5 Minecraft 設定（主辦） 最後，主辦需要開啟並進入Minecraft World 按ESC-&#62; Open to LAN-&#62; Start LAN World。右下方對話框會出現一個5 位數字，請將呢5 個數字交比玩家們。 6 Minecraft 設定（玩家） 玩家需要按 Multiplayer-&#62; Direct Connection 然後輸入下圖主辦嘅IP＋：＋（上述5&#8230;&#160;<a href="https://https://alexsze.github.io/ffrabbit/2020/07/minecraft-java-edition-10%e5%88%86%e9%90%98%e5%85%a7%e6%9e%b6%e8%a8%adminecraft-%e4%bc%ba%e6%9c%8d%e5%99%a8%ef%bc%81%ef%bc%81/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">[Minecraft Java Edition] 10分鐘內架設Minecraft 伺服器！！</span></a>]]></description>
+					<description><![CDATA[市面上有唔同架設Minecraft 伺服器嘅方法，但大部份較為繁複。為左幫大家慳時間，FFRabbit 希望係度同大家分享一個可以係唔同私人網絡嘅情況下架設Minecraft 伺服器嘅方法。 1 下載Minecraft 首先，下載Minecraft。Minecraft 官網：https://www.minecraft.net/en-us/download/（請支持正版） 2 下載Hamachi 然後，你會需要一個虛擬私人網絡，而虛擬私人網絡嘅架設可以交比Hamachi 解決。Hamachi 官網：https://www.vpn.net/ 3 Hamachi 設定（主辦） 接下來，主辦會需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Create a new network。然後設置ID 及密碼。 4 Hamachi 設定（玩家） 玩家亦需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Join an existing network。然後輸入由主辦設置嘅ID 及密碼。 5 Minecraft 設定（主辦） 最後，主辦需要開啟並進入Minecraft World 按ESC-&#62; Open to LAN-&#62; Start LAN World。右下方對話框會出現一個5 位數字，請將呢5 個數字交比玩家們。 6 Minecraft 設定（玩家） 玩家需要按 Multiplayer-&#62; Direct Connection 然後輸入下圖主辦嘅IP＋：＋（上述5&#8230;&#160;<a href="./../../../2020/07/minecraft-java-edition-10%e5%88%86%e9%90%98%e5%85%a7%e6%9e%b6%e8%a8%adminecraft-%e4%bc%ba%e6%9c%8d%e5%99%a8%ef%bc%81%ef%bc%81/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">[Minecraft Java Edition] 10分鐘內架設Minecraft 伺服器！！</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>市面上有唔同架設Minecraft 伺服器嘅方法，但大部份較為繁複。為左幫大家慳時間，FFRabbit 希望係度同大家分享一個可以係唔同私人網絡嘅情況下架設Minecraft 伺服器嘅方法。</p>
 
@@ -100,7 +100,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="738" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png" alt="" class="wp-image-625" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1-300x216.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1-768x554.png 768w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-1.png 1207w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="738" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png" alt="" class="wp-image-625" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png 1024w, ./../../../wp-content/uploads/2020/07/Minecraft-server-1-300x216.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-1-768x554.png 768w, ./../../../wp-content/uploads/2020/07/Minecraft-server-1.png 1207w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 
@@ -112,7 +112,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="809" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-2-1024x809.png" alt="" class="wp-image-626" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-2.png 1024w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-2-300x237.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-2-768x606.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="809" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-2-1024x809.png" alt="" class="wp-image-626" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-2.png 1024w, ./../../../wp-content/uploads/2020/07/Minecraft-server-2-300x237.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-2-768x606.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
 
 
 
@@ -124,7 +124,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="437" height="371" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-4.png" alt="" class="wp-image-628" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-4.png 437w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-4-300x255.png 300w" sizes="(max-width: 437px) 100vw, 437px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="437" height="371" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-4.png" alt="" class="wp-image-628" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-4.png 437w, ./../../../wp-content/uploads/2020/07/Minecraft-server-4-300x255.png 300w" sizes="(max-width: 437px) 100vw, 437px" /></figure></div>
 
 
 
@@ -136,7 +136,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="413" height="189" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-5.png" alt="" class="wp-image-629" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-5.png 413w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-5-300x137.png 300w" sizes="(max-width: 413px) 100vw, 413px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="413" height="189" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-5.png" alt="" class="wp-image-629" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-5.png 413w, ./../../../wp-content/uploads/2020/07/Minecraft-server-5-300x137.png 300w" sizes="(max-width: 413px) 100vw, 413px" /></figure></div>
 
 
 
@@ -148,11 +148,11 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="854" height="475" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-6.png" alt="" class="wp-image-630" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-6.png 854w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-6-300x167.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-6-768x427.png 768w" sizes="(max-width: 854px) 100vw, 854px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="854" height="475" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-6.png" alt="" class="wp-image-630" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-6.png 854w, ./../../../wp-content/uploads/2020/07/Minecraft-server-6-300x167.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-6-768x427.png 768w" sizes="(max-width: 854px) 100vw, 854px" /></figure></div>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="850" height="474" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-8.png" alt="" class="wp-image-631" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-8.png 850w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-8-300x167.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-8-768x428.png 768w" sizes="(max-width: 850px) 100vw, 850px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="850" height="474" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-8.png" alt="" class="wp-image-631" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-8.png 850w, ./../../../wp-content/uploads/2020/07/Minecraft-server-8-300x167.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-8-768x428.png 768w" sizes="(max-width: 850px) 100vw, 850px" /></figure></div>
 
 
 
@@ -168,7 +168,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="852" height="477" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-10.png" alt="" class="wp-image-632" srcset="https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-10.png 852w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-10-300x168.png 300w, https://https://alexsze.github.io/ffrabbit/wp-content/uploads/2020/07/Minecraft-server-10-768x430.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="852" height="477" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-10.png" alt="" class="wp-image-632" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-10.png 852w, ./../../../wp-content/uploads/2020/07/Minecraft-server-10-300x168.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-10-768x430.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure></div>
 
 
 
