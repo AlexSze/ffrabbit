@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>遊戲專區</title>
+	<atom:link href="./../../%E9%81%8A%E6%88%B2%E5%B0%88%E5%8D%80/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>-Tech tips</description>
+	<lastBuildDate>Mon, 27 Jul 2020 12:26:21 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/04/cropped-logo_square-32x32.png</url>
+	<title>遊戲專區</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows10熒幕錄製功能介紹：不用再錯過你遊戲中的精彩時刻！</title>
+		<link>./../../../2020/07/不用再錯過你遊戲中的精彩時刻！win10-熒幕錄製功能/index.html</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 12:21:58 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<category><![CDATA[遊戲專區]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=648</guid>
+
+					<description><![CDATA[相信各位打機的時候都會有一些精彩時刻， 但因為事發突然並沒有錄製下來， 無法和其他人分享。 市面上雖然已經有部分熒幕錄製軟件可以隨時錄下精彩時刻， 但設置較為複雜， 新手未必能理解。 而其實在新版本的Windows10 已經內置了熒幕錄製功能， 只需按下一個鍵就能記錄下你遊戲中的精彩時刻， 不用再擔心錯過！ 首先前往Windows設定界面中的遊戲頁面，並開啟Xbox Game Bar功能，下方已經有各項功能的默認快捷鍵，你可以根據你的習慣設置順手的鍵位。 而在“擷取”設定頁中，可以開啟熒幕截圖和錄製文件的儲存文件夾。而背景錄製是指在玩遊戲的時候自動在背景中錄製，當遇到精彩時刻時可以立刻按下“錄影”快捷鍵來儲存此前精彩時刻的片段，可以設置為儲存按下快捷鍵前15秒，30秒，1分鐘至10分鐘的錄影，可以因應你的遊戲類型而設置不同的時長。而錄影長度上限是指手動開始錄影的長度。 而下方的音訊設定中，可以設置熒幕錄影是否將音訊一同記錄下來，並可選擇僅錄製遊戲音效，不錄製自己的對話語音。另外，你也可以選擇錄製高幀率的畫面，並選擇畫質。視訊品質無論高或者標準都是1080P,但高品質下位元速率(bitrate)會雙倍，畫面更加清晰，但文件大小自然會雙倍提升，可因應個人儲存空間選擇畫質。 在簡單的設置後，你只需要在精彩時刻發生後馬上按下“錄影”快捷鍵，就能一鍵保存你的片段並分享給其他人，甚至投稿到Youtube的遊戲精彩時刻頻道，讓你的神級操作得以顯現在全世界前！雖然Windows10該功能畫質較其他第三方軟件低，但勝在操作簡單，無需下載其他軟件，並且對電腦性能要求低，不會拖慢遊戲性能，十分適合普通玩家偶爾的錄製需要。]]></description>
+										<content:encoded><![CDATA[
+<p>相信各位打機的時候都會有一些精彩時刻， 但因為事發突然並沒有錄製下來， 無法和其他人分享。 市面上雖然已經有部分熒幕錄製軟件可以隨時錄下精彩時刻， 但設置較為複雜， 新手未必能理解。 而其實在新版本的Windows10 已經內置了熒幕錄製功能， 只需按下一個鍵就能記錄下你遊戲中的精彩時刻， 不用再擔心錯過！</p>
+
+
+
+<p>首先前往Windows設定界面中的遊戲頁面，並開啟Xbox Game Bar功能，下方已經有各項功能的默認快捷鍵，你可以根據你的習慣設置順手的鍵位。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png" alt="" class="wp-image-644" width="822" height="411" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1-300x150.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1-768x384.png 768w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1.png 1191w" sizes="(max-width: 822px) 100vw, 822px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png" alt="" class="wp-image-645" width="797" height="686" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2-300x258.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2-768x662.png 768w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2.png 1061w" sizes="(max-width: 797px) 100vw, 797px" /></figure></div>
+
+
+
+<p>而在“擷取”設定頁中，可以開啟熒幕截圖和錄製文件的儲存文件夾。而背景錄製是指在玩遊戲的時候自動在背景中錄製，當遇到精彩時刻時可以立刻按下“錄影”快捷鍵來儲存此前精彩時刻的片段，可以設置為儲存按下快捷鍵前15秒，30秒，1分鐘至10分鐘的錄影，可以因應你的遊戲類型而設置不同的時長。而錄影長度上限是指手動開始錄影的長度。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_3-1024x670.png" alt="" class="wp-image-646" width="801" height="524" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_3.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_3-300x196.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_3-768x503.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></figure></div>
+
+
+
+<p>而下方的音訊設定中，可以設置熒幕錄影是否將音訊一同記錄下來，並可選擇僅錄製遊戲音效，不錄製自己的對話語音。另外，你也可以選擇錄製高幀率的畫面，並選擇畫質。視訊品質無論高或者標準都是1080P,但高品質下位元速率(bitrate)會雙倍，畫面更加清晰，但文件大小自然會雙倍提升，可因應個人儲存空間選擇畫質。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_4-1024x772.png" alt="" class="wp-image-647" width="804" height="606" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_4.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_4-300x226.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_4-768x579.png 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure></div>
+
+
+
+<p>在簡單的設置後，你只需要在精彩時刻發生後馬上按下“錄影”快捷鍵，就能一鍵保存你的片段並分享給其他人，甚至投稿到Youtube的遊戲精彩時刻頻道，讓你的神級操作得以顯現在全世界前！雖然Windows10該功能畫質較其他第三方軟件低，但勝在操作簡單，無需下載其他軟件，並且對電腦性能要求低，不會拖慢遊戲性能，十分適合普通玩家偶爾的錄製需要。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>[Minecraft Java Edition] 10分鐘內架設Minecraft 伺服器！！</title>
+		<link>./../../../2020/07/minecraft-java-edition-10分鐘內架設minecraft-伺服器！！/index.html</link>
+		
+		<dc:creator><![CDATA[Alex Sze]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2020 12:59:49 +0000</pubDate>
+				<category><![CDATA[遊戲專區]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=621</guid>
+
+					<description><![CDATA[市面上有唔同架設Minecraft 伺服器嘅方法，但大部份較為繁複。為左幫大家慳時間，FFRabbit 希望係度同大家分享一個可以係唔同私人網絡嘅情況下架設Minecraft 伺服器嘅方法。 1 下載Minecraft 首先，下載Minecraft。Minecraft 官網：https://www.minecraft.net/en-us/download/（請支持正版） 2 下載Hamachi 然後，你會需要一個虛擬私人網絡，而虛擬私人網絡嘅架設可以交比Hamachi 解決。Hamachi 官網：https://www.vpn.net/ 3 Hamachi 設定（主辦） 接下來，主辦會需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Create a new network。然後設置ID 及密碼。 4 Hamachi 設定（玩家） 玩家亦需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&#62; Join an existing network。然後輸入由主辦設置嘅ID 及密碼。 5 Minecraft 設定（主辦） 最後，主辦需要開啟並進入Minecraft World 按ESC-&#62; Open to LAN-&#62; Start LAN World。右下方對話框會出現一個5 位數字，請將呢5 個數字交比玩家們。 6 Minecraft 設定（玩家） 玩家需要按 Multiplayer-&#62; Direct Connection 然後輸入下圖主辦嘅IP＋：＋（上述5&#8230;&#160;<a href="./../../../2020/07/minecraft-java-edition-10分鐘內架設minecraft-伺服器！！/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">[Minecraft Java Edition] 10分鐘內架設Minecraft 伺服器！！</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>市面上有唔同架設Minecraft 伺服器嘅方法，但大部份較為繁複。為左幫大家慳時間，FFRabbit 希望係度同大家分享一個可以係唔同私人網絡嘅情況下架設Minecraft 伺服器嘅方法。</p>
+
+
+
+<p>1 下載Minecraft</p>
+
+
+
+<p>首先，下載Minecraft。Minecraft 官網：<a href="https://www.minecraft.net/en-us/download/" rel="nofollow noopener" target="_blank">https://www.minecraft.net/en-us/download/</a>（請支持正版）</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="738" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png" alt="" class="wp-image-625" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-1-1024x738.png 1024w, ./../../../wp-content/uploads/2020/07/Minecraft-server-1-300x216.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-1-768x554.png 768w, ./../../../wp-content/uploads/2020/07/Minecraft-server-1.png 1207w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>2 下載Hamachi</p>
+
+
+
+<p>然後，你會需要一個虛擬私人網絡，而虛擬私人網絡嘅架設可以交比Hamachi 解決。Hamachi 官網：<a href="https://www.vpn.net/" rel="nofollow noopener" target="_blank">https://www.vpn.net/</a></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="809" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-2-1024x809.png" alt="" class="wp-image-626" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-2.png 1024w, ./../../../wp-content/uploads/2020/07/Minecraft-server-2-300x237.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-2-768x606.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>3 Hamachi 設定（主辦）</p>
+
+
+
+<p>接下來，主辦會需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&gt; Create a new network。然後設置ID 及密碼。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="437" height="371" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-4.png" alt="" class="wp-image-628" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-4.png 437w, ./../../../wp-content/uploads/2020/07/Minecraft-server-4-300x255.png 300w" sizes="(max-width: 437px) 100vw, 437px" /></figure></div>
+
+
+
+<p>4 Hamachi 設定（玩家）</p>
+
+
+
+<p>玩家亦需要申請一個Hamachi 帳戶。完成後可以按下程式上方嘅Network-&gt; Join an existing network。然後輸入由主辦設置嘅ID 及密碼。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="413" height="189" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-5.png" alt="" class="wp-image-629" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-5.png 413w, ./../../../wp-content/uploads/2020/07/Minecraft-server-5-300x137.png 300w" sizes="(max-width: 413px) 100vw, 413px" /></figure></div>
+
+
+
+<p>5 Minecraft 設定（主辦）</p>
+
+
+
+<p>最後，主辦需要開啟並進入Minecraft World 按ESC-&gt; Open to LAN-&gt; Start LAN World。右下方對話框會出現一個5 位數字，請將呢5 個數字交比玩家們。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="854" height="475" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-6.png" alt="" class="wp-image-630" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-6.png 854w, ./../../../wp-content/uploads/2020/07/Minecraft-server-6-300x167.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-6-768x427.png 768w" sizes="(max-width: 854px) 100vw, 854px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="850" height="474" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-8.png" alt="" class="wp-image-631" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-8.png 850w, ./../../../wp-content/uploads/2020/07/Minecraft-server-8-300x167.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-8-768x428.png 768w" sizes="(max-width: 850px) 100vw, 850px" /></figure></div>
+
+
+
+<p>6 Minecraft 設定（玩家）</p>
+
+
+
+<p>玩家需要按 Multiplayer-&gt; Direct Connection 然後輸入下圖主辦嘅IP＋：＋（上述5 位數字）。例如：123.12.123.123:12345</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="261" height="124" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-3.png" alt="" class="wp-image-627"/></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="852" height="477" src="http://34.83.168.187/wp-content/uploads/2020/07/Minecraft-server-10.png" alt="" class="wp-image-632" srcset="./../../../wp-content/uploads/2020/07/Minecraft-server-10.png 852w, ./../../../wp-content/uploads/2020/07/Minecraft-server-10-300x168.png 300w, ./../../../wp-content/uploads/2020/07/Minecraft-server-10-768x430.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure></div>
+
+
+
+<p>7 注意事項</p>
+
+
+
+<p>使用呢個方法有幾個需要注意嘅事項。首先，主辦嘅電腦會負責大部分運算工作，所以需要一部性能比較好嘅電腦。其次，Server 只會係主辦上線（Open LAN）嘅時候存在，所以玩家們只可以係主辦上線嘅時候進入Server。最後，此方法只適用係Minecraft Java Edition，而人數上限為5 人。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

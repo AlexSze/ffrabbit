@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>科技小tips</title>
+	<atom:link href="./../../%E7%A7%91%E6%8A%80%E5%B0%8Ftips/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>-Tech tips</description>
+	<lastBuildDate>Mon, 27 Jul 2020 12:26:21 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2020/04/cropped-logo_square-32x32.png</url>
+	<title>科技小tips</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Windows10熒幕錄製功能介紹：不用再錯過你遊戲中的精彩時刻！</title>
+		<link>./../../../2020/07/不用再錯過你遊戲中的精彩時刻！win10-熒幕錄製功能/index.html</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 12:21:58 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<category><![CDATA[遊戲專區]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=648</guid>
+
+					<description><![CDATA[相信各位打機的時候都會有一些精彩時刻， 但因為事發突然並沒有錄製下來， 無法和其他人分享。 市面上雖然已經有部分熒幕錄製軟件可以隨時錄下精彩時刻， 但設置較為複雜， 新手未必能理解。 而其實在新版本的Windows10 已經內置了熒幕錄製功能， 只需按下一個鍵就能記錄下你遊戲中的精彩時刻， 不用再擔心錯過！ 首先前往Windows設定界面中的遊戲頁面，並開啟Xbox Game Bar功能，下方已經有各項功能的默認快捷鍵，你可以根據你的習慣設置順手的鍵位。 而在“擷取”設定頁中，可以開啟熒幕截圖和錄製文件的儲存文件夾。而背景錄製是指在玩遊戲的時候自動在背景中錄製，當遇到精彩時刻時可以立刻按下“錄影”快捷鍵來儲存此前精彩時刻的片段，可以設置為儲存按下快捷鍵前15秒，30秒，1分鐘至10分鐘的錄影，可以因應你的遊戲類型而設置不同的時長。而錄影長度上限是指手動開始錄影的長度。 而下方的音訊設定中，可以設置熒幕錄影是否將音訊一同記錄下來，並可選擇僅錄製遊戲音效，不錄製自己的對話語音。另外，你也可以選擇錄製高幀率的畫面，並選擇畫質。視訊品質無論高或者標準都是1080P,但高品質下位元速率(bitrate)會雙倍，畫面更加清晰，但文件大小自然會雙倍提升，可因應個人儲存空間選擇畫質。 在簡單的設置後，你只需要在精彩時刻發生後馬上按下“錄影”快捷鍵，就能一鍵保存你的片段並分享給其他人，甚至投稿到Youtube的遊戲精彩時刻頻道，讓你的神級操作得以顯現在全世界前！雖然Windows10該功能畫質較其他第三方軟件低，但勝在操作簡單，無需下載其他軟件，並且對電腦性能要求低，不會拖慢遊戲性能，十分適合普通玩家偶爾的錄製需要。]]></description>
+										<content:encoded><![CDATA[
+<p>相信各位打機的時候都會有一些精彩時刻， 但因為事發突然並沒有錄製下來， 無法和其他人分享。 市面上雖然已經有部分熒幕錄製軟件可以隨時錄下精彩時刻， 但設置較為複雜， 新手未必能理解。 而其實在新版本的Windows10 已經內置了熒幕錄製功能， 只需按下一個鍵就能記錄下你遊戲中的精彩時刻， 不用再擔心錯過！</p>
+
+
+
+<p>首先前往Windows設定界面中的遊戲頁面，並開啟Xbox Game Bar功能，下方已經有各項功能的默認快捷鍵，你可以根據你的習慣設置順手的鍵位。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png" alt="" class="wp-image-644" width="822" height="411" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_1-1024x512.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1-300x150.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1-768x384.png 768w, ./../../../wp-content/uploads/2020/07/Win10GameCap_1.png 1191w" sizes="(max-width: 822px) 100vw, 822px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png" alt="" class="wp-image-645" width="797" height="686" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_2-1024x882.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2-300x258.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2-768x662.png 768w, ./../../../wp-content/uploads/2020/07/Win10GameCap_2.png 1061w" sizes="(max-width: 797px) 100vw, 797px" /></figure></div>
+
+
+
+<p>而在“擷取”設定頁中，可以開啟熒幕截圖和錄製文件的儲存文件夾。而背景錄製是指在玩遊戲的時候自動在背景中錄製，當遇到精彩時刻時可以立刻按下“錄影”快捷鍵來儲存此前精彩時刻的片段，可以設置為儲存按下快捷鍵前15秒，30秒，1分鐘至10分鐘的錄影，可以因應你的遊戲類型而設置不同的時長。而錄影長度上限是指手動開始錄影的長度。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_3-1024x670.png" alt="" class="wp-image-646" width="801" height="524" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_3.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_3-300x196.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_3-768x503.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></figure></div>
+
+
+
+<p>而下方的音訊設定中，可以設置熒幕錄影是否將音訊一同記錄下來，並可選擇僅錄製遊戲音效，不錄製自己的對話語音。另外，你也可以選擇錄製高幀率的畫面，並選擇畫質。視訊品質無論高或者標準都是1080P,但高品質下位元速率(bitrate)會雙倍，畫面更加清晰，但文件大小自然會雙倍提升，可因應個人儲存空間選擇畫質。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10GameCap_4-1024x772.png" alt="" class="wp-image-647" width="804" height="606" srcset="./../../../wp-content/uploads/2020/07/Win10GameCap_4.png 1024w, ./../../../wp-content/uploads/2020/07/Win10GameCap_4-300x226.png 300w, ./../../../wp-content/uploads/2020/07/Win10GameCap_4-768x579.png 768w" sizes="(max-width: 804px) 100vw, 804px" /></figure></div>
+
+
+
+<p>在簡單的設置後，你只需要在精彩時刻發生後馬上按下“錄影”快捷鍵，就能一鍵保存你的片段並分享給其他人，甚至投稿到Youtube的遊戲精彩時刻頻道，讓你的神級操作得以顯現在全世界前！雖然Windows10該功能畫質較其他第三方軟件低，但勝在操作簡單，無需下載其他軟件，並且對電腦性能要求低，不會拖慢遊戲性能，十分適合普通玩家偶爾的錄製需要。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>為你的Windows手提電腦設置一個睡眠快捷鍵！</title>
+		<link>./../../../2020/07/為你的windows-手提電腦設置一個睡眠快捷鍵/index.html</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2020 17:08:44 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=605</guid>
+
+					<description><![CDATA[現今市面大部分手提電腦的電源鍵仍然設置在鍵盤面一側， 需要揭開熒幕才能按到， 但是在家中外接鍵盤和熒幕時手提電腦通常是關上熒幕使用， 無法觸碰到電源鍵， 只能繁瑣地透過點擊Windows 的開始鍵→電源→睡眠使電腦進入睡眠狀態， 十分不方便， 以下FFRabbit 就會教你如何通過設置一個快捷鍵讓你一鍵使你的電腦進入睡眠狀態！ 首先，需要前往微軟網站下載PsShutdown小工具並打開下載完成的壓縮包，並複製pssshutdown.exe文件至系統安裝盤的Windows/System32文件夾,例如C:\Windows\System32。 複製完成後，在任意一個文件夾或者桌面右鍵點擊鼠標，新增一個捷徑並輸入剛才複製文件的位置，並在後面加上-d -t 0 -accepteula，如C:\Windows\System32\psshutdown.exe -d -t 0 -accepteula。下一步再將捷徑命名為睡眠等方便辨認的名稱，完成後便可以通過點擊該捷徑馬上使電腦進入睡眠狀態。 在成功設置捷徑後，可以通過右鍵點擊捷徑→內容進入捷徑的設置界面，在該界面可以設置鍵盤快捷鍵和圖標，使電腦睡眠的操作更方便，不用通過鼠標點擊使電腦進入睡眠狀態。 最後，希望以上的小教學能夠使大家更有效率地使用電腦！]]></description>
+										<content:encoded><![CDATA[
+<p>現今市面大部分手提電腦的電源鍵仍然設置在鍵盤面一側， 需要揭開熒幕才能按到， 但是在家中外接鍵盤和熒幕時手提電腦通常是關上熒幕使用， 無法觸碰到電源鍵， 只能繁瑣地透過點擊Windows 的開始鍵→電源→睡眠使電腦進入睡眠狀態， 十分不方便， 以下FFRabbit 就會教你如何通過設置一個快捷鍵讓你一鍵使你的電腦進入睡眠狀態！</p>
+
+
+
+<p>首先，需要前往<a href="https://docs.microsoft.com/zh-tw/sysinternals/downloads/psshutdown" class="rank-math-link" rel="nofollow noopener" target="_blank">微軟網站</a>下載PsShutdown小工具並打開下載完成的壓縮包，並複製pssshutdown.exe文件至系統安裝盤的Windows/System32文件夾,例如C:\Windows\System32。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="350" height="240" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep1.png" alt="" class="wp-image-606" srcset="./../../../wp-content/uploads/2020/07/Win10_Sleep1.png 350w, ./../../../wp-content/uploads/2020/07/Win10_Sleep1-300x206.png 300w" sizes="(max-width: 350px) 100vw, 350px" /><figcaption>點擊Download PsTools下載壓縮包</figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep2.png" alt="" class="wp-image-607" width="627" height="406" srcset="./../../../wp-content/uploads/2020/07/Win10_Sleep2.png 973w, ./../../../wp-content/uploads/2020/07/Win10_Sleep2-300x194.png 300w, ./../../../wp-content/uploads/2020/07/Win10_Sleep2-768x497.png 768w" sizes="(max-width: 627px) 100vw, 627px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep3.png" alt="" class="wp-image-608" width="395" height="201" srcset="./../../../wp-content/uploads/2020/07/Win10_Sleep3.png 456w, ./../../../wp-content/uploads/2020/07/Win10_Sleep3-300x153.png 300w" sizes="(max-width: 395px) 100vw, 395px" /><figcaption>打開壓縮包後將pssshutdown文件複製至Windows\System32文件夾內</figcaption></figure></div>
+
+
+
+<p>複製完成後，在任意一個文件夾或者桌面右鍵點擊鼠標，新增一個捷徑並輸入剛才複製文件的位置，並在後面加上-d -t 0 -accepteula，如C:\Windows\System32\psshutdown.exe -d -t 0 -accepteula。下一步再將捷徑命名為睡眠等方便辨認的名稱，完成後便可以通過點擊該捷徑馬上使電腦進入睡眠狀態。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep4.png" alt="" class="wp-image-609" width="473" height="254" srcset="./../../../wp-content/uploads/2020/07/Win10_Sleep4.png 473w, ./../../../wp-content/uploads/2020/07/Win10_Sleep4-300x161.png 300w" sizes="(max-width: 473px) 100vw, 473px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="622" height="462" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep5.png" alt="" class="wp-image-610" srcset="./../../../wp-content/uploads/2020/07/Win10_Sleep5.png 622w, ./../../../wp-content/uploads/2020/07/Win10_Sleep5-300x223.png 300w" sizes="(max-width: 622px) 100vw, 622px" /></figure></div>
+
+
+
+<p>在成功設置捷徑後，可以通過右鍵點擊捷徑→內容進入捷徑的設置界面，在該界面可以設置鍵盤快捷鍵和圖標，使電腦睡眠的操作更方便，不用通過鼠標點擊使電腦進入睡眠狀態。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/07/Win10_Sleep6.png" alt="" class="wp-image-611" width="419" height="565" srcset="./../../../wp-content/uploads/2020/07/Win10_Sleep6.png 463w, ./../../../wp-content/uploads/2020/07/Win10_Sleep6-222x300.png 222w" sizes="(max-width: 419px) 100vw, 419px" /></figure></div>
+
+
+
+<p>最後，希望以上的小教學能夠使大家更有效率地使用電腦！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MACBOOK 三個不可不知的TRACKPAD 操作小技巧</title>
+		<link>./../../../2020/07/macbook-三個不可不知的trackpad-操作小技巧/index.html</link>
+		
+		<dc:creator><![CDATA[Alex Sze]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2020 10:51:16 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=591</guid>
+
+					<description><![CDATA[MACBOOK 擁有手提電腦界其中一款最好用嘅TRACKPAD，但係FFRabbit 身邊就好小有真正識用MACBOOK TRACKPAD嘅人。所以今日就等FFRabbit 為大家介紹一下MACBOOK TRACKPAD 有用又好玩嘅三項功能啦！ 首先，打開SYSTEM PREFERENCE，然後按TRACKPAD 先確認一下你嘅MACBOOK 有冇以下嘅功能：Look up &#38; data detectors, Smart zoom, Swipe between pages。（如果冇顯示可能係你嘅MACBOOK 暫時唔支援呢啲功能。）然後點選方格開啟功能。 Look up &#38; data detectors 呢項功能係FFRabbit 覺得最有用嘅MACBOOK 功能之一。呢個功能減省左搜尋資料嘅步驟，令你可以更快取得心水資料。想使用呢項功能嘅你，只需要選取希望查閱嘅字，然後Force Click （亦即係大力小小㩒個TRACKPAD），螢幕上就會顯示翻譯及詳細資料。識用呢項功能之後，你就唔再需要GOOGLE Search 啦！ Smart zoom 相信唔小貪方便嘅朋友都同FFRabbit 一樣選擇左13吋嘅MACBOOK，然後經常因為螢幕太細而睇唔清楚螢幕內容。Smart zoom就正正係為咗解決呢個問題而出現。想使用呢項功能嘅你，只需要將鼠標移到希望放大嘅位置，然後雙指Double Click，就可以暫時放大該區域。而想還原嘅時侯，就可以重覆雙指Double Click動作。相信呢項功能可以解決唔小人嘅煩惱。 Swipe between pages 呢項功能取代左瀏覽器左上角位置嘅&#8221;回到前/後一頁&#8221;，令瀏覽網頁更方便快捷。想使用呢項功能嘅你，只需要雙指往右（回到前一頁）或雙指往左（回到後一頁）移動就可以完成前進/返回操作。呢項功能係FFRabbit 其中一項最常使用嘅功能之一。 最後，希望以上小教學可以幫助到大家提升工作效率啦！]]></description>
+										<content:encoded><![CDATA[
+<p>MACBOOK 擁有手提電腦界其中一款最好用嘅TRACKPAD，但係FFRabbit 身邊就好小有真正識用MACBOOK TRACKPAD嘅人。所以今日就等FFRabbit 為大家介紹一下MACBOOK TRACKPAD 有用又好玩嘅三項功能啦！</p>
+
+
+
+<p>首先，打開SYSTEM PREFERENCE，然後按TRACKPAD 先確認一下你嘅MACBOOK 有冇以下嘅功能：Look up &amp; data detectors, Smart zoom, Swipe between pages。（如果冇顯示可能係你嘅MACBOOK 暫時唔支援呢啲功能。）然後點選方格開啟功能。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="396" height="405" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.43.06.png" alt="" class="wp-image-594" srcset="./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.43.06.png 396w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.43.06-293x300.png 293w" sizes="(max-width: 396px) 100vw, 396px" /></figure></div>
+
+
+
+<p style="font-size:30px;font-weight:bold" class="has-custom-weight"><strong>Look up &amp; data detectors</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="823" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-1024x823.png" alt="" class="wp-image-595" srcset="./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-1024x823.png 1024w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-300x241.png 300w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-768x617.png 768w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43-1536x1235.png 1536w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.43.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>呢項功能係FFRabbit 覺得最有用嘅MACBOOK 功能之一。呢個功能減省左搜尋資料嘅步驟，令你可以更快取得心水資料。想使用呢項功能嘅你，只需要選取希望查閱嘅字，然後Force Click （亦即係大力小小㩒個TRACKPAD），螢幕上就會顯示翻譯及詳細資料。識用呢項功能之後，你就唔再需要GOOGLE Search 啦！</p>
+
+
+
+<p style="font-size:30px"><strong>Smart zoom</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="823" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-1024x823.png" alt="" class="wp-image-596" srcset="./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-1024x823.png 1024w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-300x241.png 300w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-768x617.png 768w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48-1536x1235.png 1536w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.48.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>相信唔小貪方便嘅朋友都同FFRabbit 一樣選擇左13吋嘅MACBOOK，然後經常因為螢幕太細而睇唔清楚螢幕內容。Smart zoom就正正係為咗解決呢個問題而出現。想使用呢項功能嘅你，只需要將鼠標移到希望放大嘅位置，然後雙指Double Click，就可以暫時放大該區域。而想還原嘅時侯，就可以重覆雙指Double Click動作。相信呢項功能可以解決唔小人嘅煩惱。</p>
+
+
+
+<p style="font-size:30px"><strong>Swipe between pages</strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="823" src="http://34.83.168.187/wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-1024x823.png" alt="" class="wp-image-597" srcset="./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-1024x823.png 1024w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-300x241.png 300w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-768x617.png 768w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55-1536x1235.png 1536w, ./../../../wp-content/uploads/2020/07/Screenshot-2020-07-14-at-18.42.55.png 1560w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>呢項功能取代左瀏覽器左上角位置嘅&#8221;回到前/後一頁&#8221;，令瀏覽網頁更方便快捷。想使用呢項功能嘅你，只需要雙指往右（回到前一頁）或雙指往左（回到後一頁）移動就可以完成前進/返回操作。呢項功能係FFRabbit 其中一項最常使用嘅功能之一。</p>
+
+
+
+<p>最後，希望以上小教學可以幫助到大家提升工作效率啦！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>通過刪除Windows 10 更新拯救遊戲的不明問題！</title>
+		<link>./../../../2020/05/刪除windows10更新拯救不明問題/index.html</link>
+		
+		<dc:creator><![CDATA[John Poon]]></dc:creator>
+		<pubDate>Mon, 04 May 2020 15:24:44 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=563</guid>
+
+					<description><![CDATA[最近FFRabbit 常玩的遊戲在某一日突然出現了不明原因的卡頓， 嚴重影響了遊戲體驗， 經過一番排查， 發現是Windows 10 自動更新之後默認輸入法和遊戲產生衝突，刪除更新之後就回復正常，各位如果某一日突然發現使用電腦時有各式各樣的不明問題，例如卡頓、崩潰等，可以前往設定→更新與安全性→檢視更新記錄，如果發現Windows 在神不知鬼不覺的情況下安裝了更新，就很有可能是更新造成的兼容性問題，刪除更新即可解決。 在左下角的搜尋窗口輸入“控制台”或“Control”，然後進入控制台→選擇程式集→檢視已安裝的更新，尋找導致兼容問題的更新，然後罪將魁禍首解除安裝並重啟電腦就可以回復正常了！還不要忘記進入Windows Update 界面，將更新暫停一段時間，一般兼容性問題都會很快得到解決，即使後來又自動安裝了更新通常都不會導致問題再發生。 這就是今期FFRabbit 的科技小Tips ，希望能夠讓你的電腦回復正常！]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">最近FFRabbit 常玩的遊戲在某一日突然出現了不明原因的卡頓， 嚴重影響了遊戲體驗， 經過一番排查， 發現是Windows 10 自動更新之後默認輸入法和遊戲產生衝突，刪除更新之後就回復正常，各位如果某一日突然發現使用電腦時有各式各樣的不明問題，例如卡頓、崩潰等，可以前往設定→更新與安全性→檢視更新記錄，如果發現Windows 在神不知鬼不覺的情況下安裝了更新，就很有可能是更新造成的兼容性問題，刪除更新即可解決。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del1.jpg" alt="" class="wp-image-564" width="629" height="346" srcset="./../../../wp-content/uploads/2020/05/Win10_Del1.jpg 748w, ./../../../wp-content/uploads/2020/05/Win10_Del1-300x165.jpg 300w" sizes="(max-width: 629px) 100vw, 629px" /></figure></div>
+
+
+
+<p style="font-size:18px">在左下角的搜尋窗口輸入“控制台”或“Control”，然後進入控制台→選擇程式集→檢視已安裝的更新，尋找導致兼容問題的更新，然後罪將魁禍首解除安裝並重啟電腦就可以回復正常了！還不要忘記進入Windows Update 界面，將更新暫停一段時間，一般兼容性問題都會很快得到解決，即使後來又自動安裝了更新通常都不會導致問題再發生。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del2.jpg" alt="" class="wp-image-565" width="566" height="483" srcset="./../../../wp-content/uploads/2020/05/Win10_Del2.jpg 788w, ./../../../wp-content/uploads/2020/05/Win10_Del2-300x256.jpg 300w, ./../../../wp-content/uploads/2020/05/Win10_Del2-768x656.jpg 768w" sizes="(max-width: 566px) 100vw, 566px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del4.jpg" alt="" class="wp-image-567" width="562" height="258" srcset="./../../../wp-content/uploads/2020/05/Win10_Del4.jpg 658w, ./../../../wp-content/uploads/2020/05/Win10_Del4-300x138.jpg 300w" sizes="(max-width: 562px) 100vw, 562px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del3-1024x543.jpg" alt="" class="wp-image-566" width="733" height="389" srcset="./../../../wp-content/uploads/2020/05/Win10_Del3-1024x543.jpg 1024w, ./../../../wp-content/uploads/2020/05/Win10_Del3-300x159.jpg 300w, ./../../../wp-content/uploads/2020/05/Win10_Del3-768x407.jpg 768w, ./../../../wp-content/uploads/2020/05/Win10_Del3.jpg 1172w" sizes="(max-width: 733px) 100vw, 733px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/Win10_Del5.jpg" alt="" class="wp-image-568" width="665" height="485" srcset="./../../../wp-content/uploads/2020/05/Win10_Del5.jpg 878w, ./../../../wp-content/uploads/2020/05/Win10_Del5-300x219.jpg 300w, ./../../../wp-content/uploads/2020/05/Win10_Del5-768x561.jpg 768w" sizes="(max-width: 665px) 100vw, 665px" /></figure></div>
+
+
+
+<p style="font-size:18px">這就是今期FFRabbit 的科技小Tips ，希望能夠讓你的電腦回復正常！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MACBOOK 識講嘢？！簡單五步令到你嘅MACBOOK 讀出心水字句</title>
+		<link>./../../../2020/05/macbook-識講嘢？！簡單五步令到你嘅macbook-讀出心水字句/index.html</link>
+		
+		<dc:creator><![CDATA[Alex Sze]]></dc:creator>
+		<pubDate>Mon, 04 May 2020 15:01:32 +0000</pubDate>
+				<category><![CDATA[科技小tips]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<guid isPermaLink="false">http://34.83.168.187/?p=540</guid>
+
+					<description><![CDATA[MacBook 有唔小隱藏功能經常令大家嚇一跳，今日FFRabbit 就同大家分享一下點樣用Script Editor令到你嘅MacBook 讀出心水字句。 首先，去Macbook 嘅Launchpad 入面打開Script Editor。 然後，點擊打開&#8221;New Document&#8221;。 打開之後你會睇到白色上下兩個格仔，係上面格仔打&#8217;say + &#8220;（你中意嘅字）&#8221;&#8216;。 再禁白色格仔上面嘅三角形，你嘅MacBook 就開始講野啦！ 最後你可以Save 低佢下次開返出黎嚇下朋友。（FFRabbit 就經常上lecture 嘅時候用佢嚇訓緊覺嘅朋友XD） TextEditor 其實係一個編程軟件，所以識Programming 嘅朋友仔可以盡程發揮你地嘅想像力試下唔同嘅玩法！不過TextEditor 只支援英文，所以暫時讀唔到中文。 最後，希望呢個post 幫到大家prank 朋友啦！]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:18px">MacBook 有唔小隱藏功能經常令大家嚇一跳，今日FFRabbit 就同大家分享一下點樣用Script Editor令到你嘅MacBook 讀出心水字句。</p>
+
+
+
+<p style="font-size:18px">首先，去Macbook 嘅Launchpad 入面打開Script Editor。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1.jpg" alt="" class="wp-image-556" width="781" height="562" srcset="./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1.jpg 806w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1-300x216.jpg 300w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-1-768x553.jpg 768w" sizes="(max-width: 781px) 100vw, 781px" /></figure></div>
+
+
+
+<p>然後，點擊打開&#8221;New Document&#8221;。</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-1024x734.jpg" alt="" class="wp-image-555" width="844" height="605" srcset="./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-1024x734.jpg 1024w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-300x215.jpg 300w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2-768x550.jpg 768w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-2.jpg 1171w" sizes="(max-width: 844px) 100vw, 844px" /></figure></div>
+
+
+
+<p style="font-size:18px">打開之後你會睇到白色上下兩個格仔，係上面格仔打&#8217;say + &#8220;（你中意嘅字）&#8221;&#8216;。</p>
+
+
+
+<p style="font-size:18px">再禁白色格仔上面嘅三角形，你嘅MacBook 就開始講野啦！</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-1018x1024.png" alt="" class="wp-image-554" width="910" height="915" srcset="./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-1018x1024.png 1018w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-298x300.png 298w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-150x150.png 150w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-768x773.png 768w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3-1527x1536.png 1527w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-3.png 1624w" sizes="(max-width: 910px) 100vw, 910px" /></figure></div>
+
+
+
+<p style="font-size:18px">最後你可以Save 低佢下次開返出黎嚇下朋友。（FFRabbit 就經常上lecture 嘅時候用佢嚇訓緊覺嘅朋友XD）</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="http://34.83.168.187/wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-1018x1024.png" alt="" class="wp-image-553" width="937" height="943" srcset="./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-1018x1024.png 1018w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-298x300.png 298w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-150x150.png 150w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-768x773.png 768w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4-1527x1536.png 1527w, ./../../../wp-content/uploads/2020/05/MACBOOK-識講嘢？！簡單十步令到你嘅MACBOOK-讀出心水字句-4.png 1624w" sizes="(max-width: 937px) 100vw, 937px" /></figure></div>
+
+
+
+<p style="font-size:18px">TextEditor 其實係一個編程軟件，所以識Programming 嘅朋友仔可以盡程發揮你地嘅想像力試下唔同嘅玩法！不過TextEditor 只支援英文，所以暫時讀唔到中文。</p>
+
+
+
+<p style="font-size:18px">最後，希望呢個post 幫到大家prank 朋友啦！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
